@@ -1,5 +1,4 @@
-# Global Life Expectancy Trends & Prediction: An OECD Health Data Analysis
-
+# Global Life Expectancy Trends & Prediction
 ## Project Overview
 
 This project delves into global life expectancy trends using the OECD Health Status dataset. Leveraging Python for data analysis and machine learning, and Power BI for interactive visualization, the aim is to uncover insights into life expectancy patterns influenced by country, year, and gender, and to build a predictive model for future trends.
