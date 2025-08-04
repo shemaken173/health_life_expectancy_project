@@ -1,0 +1,1387 @@
+Country_Code,Country_Name,Measurement,Unit of measure,Age_Group,Gender,Year,Observation_Value
+AUS,Australia,Life expectancy,Years,0 years,Male,2023,81.1
+AUS,Australia,Life expectancy,Years,0 years,Male,2022,81.2
+AUS,Australia,Life expectancy,Years,0 years,Male,2021,81.3
+AUS,Australia,Life expectancy,Years,0 years,Female,2015,84.5
+AUS,Australia,Life expectancy,Years,0 years,Total,2018,82.8
+AUS,Australia,Life expectancy,Years,0 years,Total,2017,82.5
+AUS,Australia,Life expectancy,Years,0 years,Total,2016,82.4
+AUS,Australia,Life expectancy,Years,0 years,Total,2015,82.4
+AUS,Australia,Life expectancy,Years,0 years,Male,2020,81.2
+AUS,Australia,Life expectancy,Years,0 years,Male,2019,80.9
+AUS,Australia,Life expectancy,Years,0 years,Female,2023,85.1
+AUS,Australia,Life expectancy,Years,0 years,Female,2022,85.3
+AUS,Australia,Life expectancy,Years,0 years,Female,2021,85.4
+AUS,Australia,Life expectancy,Years,0 years,Female,2020,85.3
+AUS,Australia,Life expectancy,Years,0 years,Female,2019,85.0
+AUS,Australia,Life expectancy,Years,0 years,Male,2018,80.7
+AUS,Australia,Life expectancy,Years,0 years,Male,2017,80.5
+AUS,Australia,Life expectancy,Years,0 years,Male,2016,80.4
+AUS,Australia,Life expectancy,Years,0 years,Male,2015,80.4
+AUS,Australia,Life expectancy,Years,0 years,Female,2018,84.9
+AUS,Australia,Life expectancy,Years,0 years,Female,2017,84.6
+AUS,Australia,Life expectancy,Years,0 years,Female,2016,84.6
+AUS,Australia,Life expectancy,Years,0 years,Total,2023,83.0
+AUS,Australia,Life expectancy,Years,0 years,Total,2022,83.2
+AUS,Australia,Life expectancy,Years,0 years,Total,2021,83.3
+AUS,Australia,Life expectancy,Years,0 years,Total,2020,83.2
+AUT,Austria,Life expectancy,Years,0 years,Total,2018,81.8
+AUT,Austria,Life expectancy,Years,0 years,Total,2017,81.7
+AUT,Austria,Life expectancy,Years,0 years,Total,2016,81.8
+AUT,Austria,Life expectancy,Years,0 years,Female,2019,84.2
+AUT,Austria,Life expectancy,Years,0 years,Female,2018,84.1
+AUT,Austria,Life expectancy,Years,0 years,Female,2017,84.0
+AUT,Austria,Life expectancy,Years,0 years,Female,2016,84.1
+AUT,Austria,Life expectancy,Years,0 years,Female,2015,83.7
+AUT,Austria,Life expectancy,Years,0 years,Total,2015,81.3
+AUT,Austria,Life expectancy,Years,0 years,Male,2023,79.5
+AUT,Austria,Life expectancy,Years,0 years,Male,2022,79.1
+AUT,Austria,Life expectancy,Years,0 years,Male,2021,78.8
+AUT,Austria,Life expectancy,Years,0 years,Male,2020,78.9
+AUT,Austria,Life expectancy,Years,0 years,Male,2019,79.7
+AUT,Austria,Life expectancy,Years,0 years,Male,2018,79.4
+AUT,Austria,Life expectancy,Years,0 years,Male,2017,79.4
+AUT,Austria,Life expectancy,Years,0 years,Male,2016,79.3
+AUT,Austria,Life expectancy,Years,0 years,Male,2015,78.8
+AUT,Austria,Life expectancy,Years,0 years,Female,2023,84.2
+AUT,Austria,Life expectancy,Years,0 years,Female,2022,83.6
+AUT,Austria,Life expectancy,Years,0 years,Female,2021,83.7
+AUT,Austria,Life expectancy,Years,0 years,Female,2020,83.6
+AUT,Austria,Life expectancy,Years,0 years,Total,2023,81.9
+AUT,Austria,Life expectancy,Years,0 years,Total,2022,81.4
+AUT,Austria,Life expectancy,Years,0 years,Total,2021,81.3
+AUT,Austria,Life expectancy,Years,0 years,Total,2020,81.3
+BEL,Belgium,Life expectancy,Years,0 years,Total,2018,81.7
+BEL,Belgium,Life expectancy,Years,0 years,Total,2017,81.6
+BEL,Belgium,Life expectancy,Years,0 years,Total,2016,81.5
+BEL,Belgium,Life expectancy,Years,0 years,Female,2019,84.3
+BEL,Belgium,Life expectancy,Years,0 years,Female,2018,83.9
+BEL,Belgium,Life expectancy,Years,0 years,Female,2017,83.9
+BEL,Belgium,Life expectancy,Years,0 years,Female,2016,84.0
+BEL,Belgium,Life expectancy,Years,0 years,Female,2015,83.4
+BEL,Belgium,Life expectancy,Years,0 years,Total,2015,81.1
+BEL,Belgium,Life expectancy,Years,0 years,Male,2023,80.4
+BEL,Belgium,Life expectancy,Years,0 years,Male,2022,79.7
+BEL,Belgium,Life expectancy,Years,0 years,Male,2021,79.4
+BEL,Belgium,Life expectancy,Years,0 years,Male,2020,78.5
+BEL,Belgium,Life expectancy,Years,0 years,Male,2019,79.8
+BEL,Belgium,Life expectancy,Years,0 years,Male,2018,79.4
+BEL,Belgium,Life expectancy,Years,0 years,Male,2017,79.2
+BEL,Belgium,Life expectancy,Years,0 years,Male,2016,79.0
+BEL,Belgium,Life expectancy,Years,0 years,Male,2015,78.7
+BEL,Belgium,Life expectancy,Years,0 years,Female,2023,84.5
+BEL,Belgium,Life expectancy,Years,0 years,Female,2022,83.9
+BEL,Belgium,Life expectancy,Years,0 years,Female,2021,84.3
+BEL,Belgium,Life expectancy,Years,0 years,Female,2020,83.0
+BEL,Belgium,Life expectancy,Years,0 years,Total,2023,82.5
+BEL,Belgium,Life expectancy,Years,0 years,Total,2022,81.8
+BEL,Belgium,Life expectancy,Years,0 years,Total,2021,81.9
+BEL,Belgium,Life expectancy,Years,0 years,Total,2020,80.8
+CAN,Canada,Life expectancy,Years,0 years,Total,2018,81.9
+CAN,Canada,Life expectancy,Years,0 years,Total,2017,81.9
+CAN,Canada,Life expectancy,Years,0 years,Total,2016,82.0
+CAN,Canada,Life expectancy,Years,0 years,Female,2019,84.3
+CAN,Canada,Life expectancy,Years,0 years,Female,2018,84.0
+CAN,Canada,Life expectancy,Years,0 years,Female,2017,84.0
+CAN,Canada,Life expectancy,Years,0 years,Female,2016,84.0
+CAN,Canada,Life expectancy,Years,0 years,Female,2015,83.9
+CAN,Canada,Life expectancy,Years,0 years,Total,2015,81.9
+CAN,Canada,Life expectancy,Years,0 years,Male,2023,79.5
+CAN,Canada,Life expectancy,Years,0 years,Male,2022,79.1
+CAN,Canada,Life expectancy,Years,0 years,Male,2021,79.2
+CAN,Canada,Life expectancy,Years,0 years,Male,2020,79.3
+CAN,Canada,Life expectancy,Years,0 years,Male,2019,80.1
+CAN,Canada,Life expectancy,Years,0 years,Male,2018,79.8
+CAN,Canada,Life expectancy,Years,0 years,Male,2017,79.7
+CAN,Canada,Life expectancy,Years,0 years,Male,2016,79.9
+CAN,Canada,Life expectancy,Years,0 years,Male,2015,79.9
+CAN,Canada,Life expectancy,Years,0 years,Female,2023,83.9
+CAN,Canada,Life expectancy,Years,0 years,Female,2022,83.5
+CAN,Canada,Life expectancy,Years,0 years,Female,2021,84.0
+CAN,Canada,Life expectancy,Years,0 years,Female,2020,83.8
+CAN,Canada,Life expectancy,Years,0 years,Total,2023,81.7
+CAN,Canada,Life expectancy,Years,0 years,Total,2022,81.3
+CAN,Canada,Life expectancy,Years,0 years,Total,2021,81.6
+CAN,Canada,Life expectancy,Years,0 years,Total,2020,81.6
+CHL,Chile,Life expectancy,Years,0 years,Total,2016,80.0
+CHL,Chile,Life expectancy,Years,0 years,Total,2015,79.8
+CHL,Chile,Life expectancy,Years,0 years,Male,2024,78.9
+CHL,Chile,Life expectancy,Years,0 years,Female,2019,83.4
+CHL,Chile,Life expectancy,Years,0 years,Female,2018,83.2
+CHL,Chile,Life expectancy,Years,0 years,Female,2017,83.0
+CHL,Chile,Life expectancy,Years,0 years,Female,2016,82.9
+CHL,Chile,Life expectancy,Years,0 years,Female,2015,82.7
+CHL,Chile,Life expectancy,Years,0 years,Male,2023,78.7
+CHL,Chile,Life expectancy,Years,0 years,Male,2022,78.5
+CHL,Chile,Life expectancy,Years,0 years,Male,2021,78.3
+CHL,Chile,Life expectancy,Years,0 years,Male,2020,78.1
+CHL,Chile,Life expectancy,Years,0 years,Male,2019,77.9
+CHL,Chile,Life expectancy,Years,0 years,Male,2018,77.7
+CHL,Chile,Life expectancy,Years,0 years,Male,2017,77.4
+CHL,Chile,Life expectancy,Years,0 years,Male,2016,77.2
+CHL,Chile,Life expectancy,Years,0 years,Male,2015,77.0
+CHL,Chile,Life expectancy,Years,0 years,Female,2024,84.3
+CHL,Chile,Life expectancy,Years,0 years,Female,2023,84.1
+CHL,Chile,Life expectancy,Years,0 years,Female,2022,84.0
+CHL,Chile,Life expectancy,Years,0 years,Female,2021,83.8
+CHL,Chile,Life expectancy,Years,0 years,Female,2020,83.6
+CHL,Chile,Life expectancy,Years,0 years,Total,2024,81.6
+CHL,Chile,Life expectancy,Years,0 years,Total,2023,81.4
+CHL,Chile,Life expectancy,Years,0 years,Total,2022,81.2
+CHL,Chile,Life expectancy,Years,0 years,Total,2021,81.0
+CHL,Chile,Life expectancy,Years,0 years,Total,2020,80.8
+CHL,Chile,Life expectancy,Years,0 years,Total,2019,80.6
+CHL,Chile,Life expectancy,Years,0 years,Total,2018,80.4
+COL,Colombia,Life expectancy,Years,0 years,Total,2016,75.7
+COL,Colombia,Life expectancy,Years,0 years,Total,2015,75.4
+COL,Colombia,Life expectancy,Years,0 years,Male,2024,74.7
+COL,Colombia,Life expectancy,Years,0 years,Female,2019,79.9
+COL,Colombia,Life expectancy,Years,0 years,Female,2018,79.8
+COL,Colombia,Life expectancy,Years,0 years,Female,2017,79.3
+COL,Colombia,Life expectancy,Years,0 years,Female,2016,79.1
+COL,Colombia,Life expectancy,Years,0 years,Female,2015,78.9
+COL,Colombia,Life expectancy,Years,0 years,Male,2023,74.5
+COL,Colombia,Life expectancy,Years,0 years,Male,2022,73.8
+COL,Colombia,Life expectancy,Years,0 years,Male,2021,73.7
+COL,Colombia,Life expectancy,Years,0 years,Male,2020,73.6
+COL,Colombia,Life expectancy,Years,0 years,Male,2019,73.5
+COL,Colombia,Life expectancy,Years,0 years,Male,2018,73.3
+COL,Colombia,Life expectancy,Years,0 years,Male,2017,72.7
+COL,Colombia,Life expectancy,Years,0 years,Male,2016,72.5
+COL,Colombia,Life expectancy,Years,0 years,Male,2015,72.2
+COL,Colombia,Life expectancy,Years,0 years,Female,2024,80.3
+COL,Colombia,Life expectancy,Years,0 years,Female,2023,80.1
+COL,Colombia,Life expectancy,Years,0 years,Female,2022,80.1
+COL,Colombia,Life expectancy,Years,0 years,Female,2021,80.0
+COL,Colombia,Life expectancy,Years,0 years,Female,2020,80.0
+COL,Colombia,Life expectancy,Years,0 years,Total,2024,77.5
+COL,Colombia,Life expectancy,Years,0 years,Total,2023,77.2
+COL,Colombia,Life expectancy,Years,0 years,Total,2022,76.9
+COL,Colombia,Life expectancy,Years,0 years,Total,2021,76.8
+COL,Colombia,Life expectancy,Years,0 years,Total,2020,76.7
+COL,Colombia,Life expectancy,Years,0 years,Total,2019,76.6
+COL,Colombia,Life expectancy,Years,0 years,Total,2018,76.5
+CRI,Costa Rica,Life expectancy,Years,0 years,Total,2018,80.3
+CRI,Costa Rica,Life expectancy,Years,0 years,Total,2017,80.2
+CRI,Costa Rica,Life expectancy,Years,0 years,Total,2016,80.0
+CRI,Costa Rica,Life expectancy,Years,0 years,Female,2019,83.0
+CRI,Costa Rica,Life expectancy,Years,0 years,Female,2018,82.9
+CRI,Costa Rica,Life expectancy,Years,0 years,Female,2017,82.7
+CRI,Costa Rica,Life expectancy,Years,0 years,Female,2016,82.6
+CRI,Costa Rica,Life expectancy,Years,0 years,Female,2015,82.4
+CRI,Costa Rica,Life expectancy,Years,0 years,Total,2015,79.9
+CRI,Costa Rica,Life expectancy,Years,0 years,Male,2023,78.4
+CRI,Costa Rica,Life expectancy,Years,0 years,Male,2022,78.3
+CRI,Costa Rica,Life expectancy,Years,0 years,Male,2021,78.2
+CRI,Costa Rica,Life expectancy,Years,0 years,Male,2020,78.1
+CRI,Costa Rica,Life expectancy,Years,0 years,Male,2019,77.9
+CRI,Costa Rica,Life expectancy,Years,0 years,Male,2018,77.8
+CRI,Costa Rica,Life expectancy,Years,0 years,Male,2017,77.6
+CRI,Costa Rica,Life expectancy,Years,0 years,Male,2016,77.5
+CRI,Costa Rica,Life expectancy,Years,0 years,Male,2015,77.4
+CRI,Costa Rica,Life expectancy,Years,0 years,Female,2023,83.6
+CRI,Costa Rica,Life expectancy,Years,0 years,Female,2022,83.5
+CRI,Costa Rica,Life expectancy,Years,0 years,Female,2021,83.3
+CRI,Costa Rica,Life expectancy,Years,0 years,Female,2020,83.2
+CRI,Costa Rica,Life expectancy,Years,0 years,Total,2023,81.0
+CRI,Costa Rica,Life expectancy,Years,0 years,Total,2022,80.9
+CRI,Costa Rica,Life expectancy,Years,0 years,Total,2021,80.8
+CRI,Costa Rica,Life expectancy,Years,0 years,Total,2020,80.6
+CZE,Czechia,Life expectancy,Years,0 years,Total,2018,79.1
+CZE,Czechia,Life expectancy,Years,0 years,Total,2017,79.1
+CZE,Czechia,Life expectancy,Years,0 years,Total,2016,79.1
+CZE,Czechia,Life expectancy,Years,0 years,Female,2019,82.2
+CZE,Czechia,Life expectancy,Years,0 years,Female,2018,82.0
+CZE,Czechia,Life expectancy,Years,0 years,Female,2017,82.0
+CZE,Czechia,Life expectancy,Years,0 years,Female,2016,82.1
+CZE,Czechia,Life expectancy,Years,0 years,Female,2015,81.6
+CZE,Czechia,Life expectancy,Years,0 years,Total,2015,78.7
+CZE,Czechia,Life expectancy,Years,0 years,Male,2023,76.9
+CZE,Czechia,Life expectancy,Years,0 years,Male,2022,76.1
+CZE,Czechia,Life expectancy,Years,0 years,Male,2021,74.1
+CZE,Czechia,Life expectancy,Years,0 years,Male,2020,75.3
+CZE,Czechia,Life expectancy,Years,0 years,Male,2019,76.4
+CZE,Czechia,Life expectancy,Years,0 years,Male,2018,76.2
+CZE,Czechia,Life expectancy,Years,0 years,Male,2017,76.1
+CZE,Czechia,Life expectancy,Years,0 years,Male,2016,76.1
+CZE,Czechia,Life expectancy,Years,0 years,Male,2015,75.7
+CZE,Czechia,Life expectancy,Years,0 years,Female,2023,82.9
+CZE,Czechia,Life expectancy,Years,0 years,Female,2022,81.9
+CZE,Czechia,Life expectancy,Years,0 years,Female,2021,80.5
+CZE,Czechia,Life expectancy,Years,0 years,Female,2020,81.3
+CZE,Czechia,Life expectancy,Years,0 years,Total,2023,79.9
+CZE,Czechia,Life expectancy,Years,0 years,Total,2022,79.0
+CZE,Czechia,Life expectancy,Years,0 years,Total,2021,77.2
+CZE,Czechia,Life expectancy,Years,0 years,Total,2020,78.3
+DNK,Denmark,Life expectancy,Years,0 years,Total,2018,81.0
+DNK,Denmark,Life expectancy,Years,0 years,Total,2017,81.1
+DNK,Denmark,Life expectancy,Years,0 years,Total,2016,80.9
+DNK,Denmark,Life expectancy,Years,0 years,Female,2019,83.5
+DNK,Denmark,Life expectancy,Years,0 years,Female,2018,82.9
+DNK,Denmark,Life expectancy,Years,0 years,Female,2017,83.1
+DNK,Denmark,Life expectancy,Years,0 years,Female,2016,82.8
+DNK,Denmark,Life expectancy,Years,0 years,Female,2015,82.7
+DNK,Denmark,Life expectancy,Years,0 years,Total,2015,80.8
+DNK,Denmark,Life expectancy,Years,0 years,Male,2023,79.9
+DNK,Denmark,Life expectancy,Years,0 years,Male,2022,79.5
+DNK,Denmark,Life expectancy,Years,0 years,Male,2021,79.6
+DNK,Denmark,Life expectancy,Years,0 years,Male,2020,79.7
+DNK,Denmark,Life expectancy,Years,0 years,Male,2019,79.5
+DNK,Denmark,Life expectancy,Years,0 years,Male,2018,79.1
+DNK,Denmark,Life expectancy,Years,0 years,Male,2017,79.2
+DNK,Denmark,Life expectancy,Years,0 years,Male,2016,79.0
+DNK,Denmark,Life expectancy,Years,0 years,Male,2015,78.8
+DNK,Denmark,Life expectancy,Years,0 years,Female,2023,83.7
+DNK,Denmark,Life expectancy,Years,0 years,Female,2022,83.2
+DNK,Denmark,Life expectancy,Years,0 years,Female,2021,83.3
+DNK,Denmark,Life expectancy,Years,0 years,Female,2020,83.6
+DNK,Denmark,Life expectancy,Years,0 years,Total,2023,81.8
+DNK,Denmark,Life expectancy,Years,0 years,Total,2022,81.3
+DNK,Denmark,Life expectancy,Years,0 years,Total,2021,81.5
+DNK,Denmark,Life expectancy,Years,0 years,Total,2020,81.6
+EST,Estonia,Life expectancy,Years,0 years,Total,2018,78.5
+EST,Estonia,Life expectancy,Years,0 years,Total,2017,78.4
+EST,Estonia,Life expectancy,Years,0 years,Total,2016,78.0
+EST,Estonia,Life expectancy,Years,0 years,Female,2019,83.0
+EST,Estonia,Life expectancy,Years,0 years,Female,2018,82.7
+EST,Estonia,Life expectancy,Years,0 years,Female,2017,82.6
+EST,Estonia,Life expectancy,Years,0 years,Female,2016,82.2
+EST,Estonia,Life expectancy,Years,0 years,Female,2015,82.2
+EST,Estonia,Life expectancy,Years,0 years,Total,2015,78.0
+EST,Estonia,Life expectancy,Years,0 years,Male,2023,74.5
+EST,Estonia,Life expectancy,Years,0 years,Male,2022,73.6
+EST,Estonia,Life expectancy,Years,0 years,Male,2021,72.7
+EST,Estonia,Life expectancy,Years,0 years,Male,2020,74.4
+EST,Estonia,Life expectancy,Years,0 years,Male,2019,74.5
+EST,Estonia,Life expectancy,Years,0 years,Male,2018,74.0
+EST,Estonia,Life expectancy,Years,0 years,Male,2017,73.8
+EST,Estonia,Life expectancy,Years,0 years,Male,2016,73.3
+EST,Estonia,Life expectancy,Years,0 years,Male,2015,73.2
+EST,Estonia,Life expectancy,Years,0 years,Female,2023,83.3
+EST,Estonia,Life expectancy,Years,0 years,Female,2022,82.3
+EST,Estonia,Life expectancy,Years,0 years,Female,2021,81.4
+EST,Estonia,Life expectancy,Years,0 years,Female,2020,83.0
+EST,Estonia,Life expectancy,Years,0 years,Total,2023,79.1
+EST,Estonia,Life expectancy,Years,0 years,Total,2022,78.1
+EST,Estonia,Life expectancy,Years,0 years,Total,2021,77.2
+EST,Estonia,Life expectancy,Years,0 years,Total,2020,78.9
+FIN,Finland,Life expectancy,Years,0 years,Total,2018,81.8
+FIN,Finland,Life expectancy,Years,0 years,Total,2017,81.7
+FIN,Finland,Life expectancy,Years,0 years,Total,2016,81.5
+FIN,Finland,Life expectancy,Years,0 years,Female,2019,84.8
+FIN,Finland,Life expectancy,Years,0 years,Female,2018,84.5
+FIN,Finland,Life expectancy,Years,0 years,Female,2017,84.5
+FIN,Finland,Life expectancy,Years,0 years,Female,2016,84.4
+FIN,Finland,Life expectancy,Years,0 years,Female,2015,84.4
+FIN,Finland,Life expectancy,Years,0 years,Total,2015,81.6
+FIN,Finland,Life expectancy,Years,0 years,Male,2023,79.0
+FIN,Finland,Life expectancy,Years,0 years,Male,2022,78.7
+FIN,Finland,Life expectancy,Years,0 years,Male,2021,79.3
+FIN,Finland,Life expectancy,Years,0 years,Male,2020,79.2
+FIN,Finland,Life expectancy,Years,0 years,Male,2019,79.3
+FIN,Finland,Life expectancy,Years,0 years,Male,2018,79.1
+FIN,Finland,Life expectancy,Years,0 years,Male,2017,78.9
+FIN,Finland,Life expectancy,Years,0 years,Male,2016,78.6
+FIN,Finland,Life expectancy,Years,0 years,Male,2015,78.7
+FIN,Finland,Life expectancy,Years,0 years,Female,2023,84.3
+FIN,Finland,Life expectancy,Years,0 years,Female,2022,83.8
+FIN,Finland,Life expectancy,Years,0 years,Female,2021,84.6
+FIN,Finland,Life expectancy,Years,0 years,Female,2020,84.8
+FIN,Finland,Life expectancy,Years,0 years,Total,2023,81.6
+FIN,Finland,Life expectancy,Years,0 years,Total,2022,81.2
+FIN,Finland,Life expectancy,Years,0 years,Total,2021,81.9
+FIN,Finland,Life expectancy,Years,0 years,Total,2020,82.0
+FRA,France,Life expectancy,Years,0 years,Total,2018,82.8
+FRA,France,Life expectancy,Years,0 years,Total,2017,82.7
+FRA,France,Life expectancy,Years,0 years,Total,2016,82.7
+FRA,France,Life expectancy,Years,0 years,Female,2019,85.9
+FRA,France,Life expectancy,Years,0 years,Female,2018,85.8
+FRA,France,Life expectancy,Years,0 years,Female,2017,85.7
+FRA,France,Life expectancy,Years,0 years,Female,2016,85.8
+FRA,France,Life expectancy,Years,0 years,Female,2015,85.6
+FRA,France,Life expectancy,Years,0 years,Total,2015,82.4
+FRA,France,Life expectancy,Years,0 years,Male,2023,80.1
+FRA,France,Life expectancy,Years,0 years,Male,2022,79.3
+FRA,France,Life expectancy,Years,0 years,Male,2021,79.3
+FRA,France,Life expectancy,Years,0 years,Male,2020,79.2
+FRA,France,Life expectancy,Years,0 years,Male,2019,79.9
+FRA,France,Life expectancy,Years,0 years,Male,2018,79.7
+FRA,France,Life expectancy,Years,0 years,Male,2017,79.6
+FRA,France,Life expectancy,Years,0 years,Male,2016,79.5
+FRA,France,Life expectancy,Years,0 years,Male,2015,79.2
+FRA,France,Life expectancy,Years,0 years,Female,2023,85.7
+FRA,France,Life expectancy,Years,0 years,Female,2022,85.1
+FRA,France,Life expectancy,Years,0 years,Female,2021,85.5
+FRA,France,Life expectancy,Years,0 years,Female,2020,85.3
+FRA,France,Life expectancy,Years,0 years,Total,2023,83.0
+FRA,France,Life expectancy,Years,0 years,Total,2022,82.3
+FRA,France,Life expectancy,Years,0 years,Total,2021,82.4
+FRA,France,Life expectancy,Years,0 years,Total,2020,82.3
+DEU,Germany,Life expectancy,Years,0 years,Total,2018,81.0
+DEU,Germany,Life expectancy,Years,0 years,Total,2017,81.1
+DEU,Germany,Life expectancy,Years,0 years,Total,2016,81.0
+DEU,Germany,Life expectancy,Years,0 years,Female,2019,83.7
+DEU,Germany,Life expectancy,Years,0 years,Female,2018,83.3
+DEU,Germany,Life expectancy,Years,0 years,Female,2017,83.4
+DEU,Germany,Life expectancy,Years,0 years,Female,2016,83.5
+DEU,Germany,Life expectancy,Years,0 years,Female,2015,83.1
+DEU,Germany,Life expectancy,Years,0 years,Total,2015,80.7
+DEU,Germany,Life expectancy,Years,0 years,Male,2023,78.7
+DEU,Germany,Life expectancy,Years,0 years,Male,2022,78.3
+DEU,Germany,Life expectancy,Years,0 years,Male,2021,78.4
+DEU,Germany,Life expectancy,Years,0 years,Male,2020,78.7
+DEU,Germany,Life expectancy,Years,0 years,Male,2019,79.0
+DEU,Germany,Life expectancy,Years,0 years,Male,2018,78.6
+DEU,Germany,Life expectancy,Years,0 years,Male,2017,78.7
+DEU,Germany,Life expectancy,Years,0 years,Male,2016,78.6
+DEU,Germany,Life expectancy,Years,0 years,Male,2015,78.3
+DEU,Germany,Life expectancy,Years,0 years,Female,2023,83.5
+DEU,Germany,Life expectancy,Years,0 years,Female,2022,83.0
+DEU,Germany,Life expectancy,Years,0 years,Female,2021,83.3
+DEU,Germany,Life expectancy,Years,0 years,Female,2020,83.5
+DEU,Germany,Life expectancy,Years,0 years,Total,2023,81.1
+DEU,Germany,Life expectancy,Years,0 years,Total,2022,80.7
+DEU,Germany,Life expectancy,Years,0 years,Total,2021,80.8
+DEU,Germany,Life expectancy,Years,0 years,Total,2020,81.1
+GRC,Greece,Life expectancy,Years,0 years,Total,2018,81.9
+GRC,Greece,Life expectancy,Years,0 years,Total,2017,81.4
+GRC,Greece,Life expectancy,Years,0 years,Total,2016,81.5
+GRC,Greece,Life expectancy,Years,0 years,Female,2019,84.2
+GRC,Greece,Life expectancy,Years,0 years,Female,2018,84.4
+GRC,Greece,Life expectancy,Years,0 years,Female,2017,83.9
+GRC,Greece,Life expectancy,Years,0 years,Female,2016,84.0
+GRC,Greece,Life expectancy,Years,0 years,Female,2015,83.7
+GRC,Greece,Life expectancy,Years,0 years,Total,2015,81.1
+GRC,Greece,Life expectancy,Years,0 years,Male,2023,79.2
+GRC,Greece,Life expectancy,Years,0 years,Male,2022,78.3
+GRC,Greece,Life expectancy,Years,0 years,Male,2021,77.4
+GRC,Greece,Life expectancy,Years,0 years,Male,2020,78.8
+GRC,Greece,Life expectancy,Years,0 years,Male,2019,79.2
+GRC,Greece,Life expectancy,Years,0 years,Male,2018,79.3
+GRC,Greece,Life expectancy,Years,0 years,Male,2017,78.8
+GRC,Greece,Life expectancy,Years,0 years,Male,2016,78.9
+GRC,Greece,Life expectancy,Years,0 years,Male,2015,78.5
+GRC,Greece,Life expectancy,Years,0 years,Female,2023,84.4
+GRC,Greece,Life expectancy,Years,0 years,Female,2022,83.4
+GRC,Greece,Life expectancy,Years,0 years,Female,2021,82.9
+GRC,Greece,Life expectancy,Years,0 years,Female,2020,83.9
+GRC,Greece,Life expectancy,Years,0 years,Total,2023,81.8
+GRC,Greece,Life expectancy,Years,0 years,Total,2022,80.8
+GRC,Greece,Life expectancy,Years,0 years,Total,2021,80.2
+GRC,Greece,Life expectancy,Years,0 years,Total,2020,81.4
+HUN,Hungary,Life expectancy,Years,0 years,Total,2018,76.2
+HUN,Hungary,Life expectancy,Years,0 years,Total,2017,76.0
+HUN,Hungary,Life expectancy,Years,0 years,Total,2016,76.2
+HUN,Hungary,Life expectancy,Years,0 years,Female,2019,79.7
+HUN,Hungary,Life expectancy,Years,0 years,Female,2018,79.6
+HUN,Hungary,Life expectancy,Years,0 years,Female,2017,79.3
+HUN,Hungary,Life expectancy,Years,0 years,Female,2016,79.7
+HUN,Hungary,Life expectancy,Years,0 years,Female,2015,79.0
+HUN,Hungary,Life expectancy,Years,0 years,Total,2015,75.7
+HUN,Hungary,Life expectancy,Years,0 years,Male,2023,73.4
+HUN,Hungary,Life expectancy,Years,0 years,Male,2022,72.6
+HUN,Hungary,Life expectancy,Years,0 years,Male,2021,70.7
+HUN,Hungary,Life expectancy,Years,0 years,Male,2020,72.2
+HUN,Hungary,Life expectancy,Years,0 years,Male,2019,73.1
+HUN,Hungary,Life expectancy,Years,0 years,Male,2018,72.7
+HUN,Hungary,Life expectancy,Years,0 years,Male,2017,72.5
+HUN,Hungary,Life expectancy,Years,0 years,Male,2016,72.6
+HUN,Hungary,Life expectancy,Years,0 years,Male,2015,72.3
+HUN,Hungary,Life expectancy,Years,0 years,Female,2023,79.9
+HUN,Hungary,Life expectancy,Years,0 years,Female,2022,79.3
+HUN,Hungary,Life expectancy,Years,0 years,Female,2021,77.6
+HUN,Hungary,Life expectancy,Years,0 years,Female,2020,78.8
+HUN,Hungary,Life expectancy,Years,0 years,Total,2023,76.7
+HUN,Hungary,Life expectancy,Years,0 years,Total,2022,76.0
+HUN,Hungary,Life expectancy,Years,0 years,Total,2021,74.1
+HUN,Hungary,Life expectancy,Years,0 years,Total,2020,75.5
+ISL,Iceland,Life expectancy,Years,0 years,Total,2018,82.9
+ISL,Iceland,Life expectancy,Years,0 years,Total,2017,82.6
+ISL,Iceland,Life expectancy,Years,0 years,Total,2016,82.2
+ISL,Iceland,Life expectancy,Years,0 years,Female,2019,84.7
+ISL,Iceland,Life expectancy,Years,0 years,Female,2018,84.5
+ISL,Iceland,Life expectancy,Years,0 years,Female,2017,84.3
+ISL,Iceland,Life expectancy,Years,0 years,Female,2016,84.1
+ISL,Iceland,Life expectancy,Years,0 years,Female,2015,83.8
+ISL,Iceland,Life expectancy,Years,0 years,Total,2015,82.5
+ISL,Iceland,Life expectancy,Years,0 years,Male,2023,80.7
+ISL,Iceland,Life expectancy,Years,0 years,Male,2022,80.9
+ISL,Iceland,Life expectancy,Years,0 years,Male,2021,81.8
+ISL,Iceland,Life expectancy,Years,0 years,Male,2020,81.6
+ISL,Iceland,Life expectancy,Years,0 years,Male,2019,81.7
+ISL,Iceland,Life expectancy,Years,0 years,Male,2018,81.3
+ISL,Iceland,Life expectancy,Years,0 years,Male,2017,81.1
+ISL,Iceland,Life expectancy,Years,0 years,Male,2016,80.4
+ISL,Iceland,Life expectancy,Years,0 years,Male,2015,81.2
+ISL,Iceland,Life expectancy,Years,0 years,Female,2023,84.3
+ISL,Iceland,Life expectancy,Years,0 years,Female,2022,83.4
+ISL,Iceland,Life expectancy,Years,0 years,Female,2021,84.6
+ISL,Iceland,Life expectancy,Years,0 years,Female,2020,84.6
+ISL,Iceland,Life expectancy,Years,0 years,Total,2023,82.4
+ISL,Iceland,Life expectancy,Years,0 years,Total,2022,82.1
+ISL,Iceland,Life expectancy,Years,0 years,Total,2021,83.2
+ISL,Iceland,Life expectancy,Years,0 years,Total,2020,83.1
+IRL,Ireland,Life expectancy,Years,0 years,Total,2018,82.2
+IRL,Ireland,Life expectancy,Years,0 years,Total,2017,82.2
+IRL,Ireland,Life expectancy,Years,0 years,Total,2016,81.7
+IRL,Ireland,Life expectancy,Years,0 years,Female,2019,84.7
+IRL,Ireland,Life expectancy,Years,0 years,Female,2018,84.1
+IRL,Ireland,Life expectancy,Years,0 years,Female,2017,84.0
+IRL,Ireland,Life expectancy,Years,0 years,Female,2016,83.6
+IRL,Ireland,Life expectancy,Years,0 years,Female,2015,83.4
+IRL,Ireland,Life expectancy,Years,0 years,Total,2015,81.5
+IRL,Ireland,Life expectancy,Years,0 years,Male,2023,81.1
+IRL,Ireland,Life expectancy,Years,0 years,Male,2022,80.9
+IRL,Ireland,Life expectancy,Years,0 years,Male,2021,80.4
+IRL,Ireland,Life expectancy,Years,0 years,Male,2020,80.7
+IRL,Ireland,Life expectancy,Years,0 years,Male,2019,80.8
+IRL,Ireland,Life expectancy,Years,0 years,Male,2018,80.4
+IRL,Ireland,Life expectancy,Years,0 years,Male,2017,80.4
+IRL,Ireland,Life expectancy,Years,0 years,Male,2016,79.8
+IRL,Ireland,Life expectancy,Years,0 years,Male,2015,79.6
+IRL,Ireland,Life expectancy,Years,0 years,Female,2023,84.6
+IRL,Ireland,Life expectancy,Years,0 years,Female,2022,84.2
+IRL,Ireland,Life expectancy,Years,0 years,Female,2021,84.2
+IRL,Ireland,Life expectancy,Years,0 years,Female,2020,84.3
+IRL,Ireland,Life expectancy,Years,0 years,Total,2023,82.9
+IRL,Ireland,Life expectancy,Years,0 years,Total,2022,82.6
+IRL,Ireland,Life expectancy,Years,0 years,Total,2021,82.3
+IRL,Ireland,Life expectancy,Years,0 years,Total,2020,82.5
+ISR,Israel,Life expectancy,Years,0 years,Total,2020,82.7
+ISR,Israel,Life expectancy,Years,0 years,Total,2019,82.9
+ISR,Israel,Life expectancy,Years,0 years,Total,2018,82.9
+ISR,Israel,Life expectancy,Years,0 years,Female,2019,84.7
+ISR,Israel,Life expectancy,Years,0 years,Female,2018,84.8
+ISR,Israel,Life expectancy,Years,0 years,Female,2017,84.6
+ISR,Israel,Life expectancy,Years,0 years,Female,2016,84.2
+ISR,Israel,Life expectancy,Years,0 years,Female,2015,84.1
+ISR,Israel,Life expectancy,Years,0 years,Total,2017,82.7
+ISR,Israel,Life expectancy,Years,0 years,Total,2016,82.5
+ISR,Israel,Life expectancy,Years,0 years,Total,2015,82.2
+ISR,Israel,Life expectancy,Years,0 years,Male,2022,80.7
+ISR,Israel,Life expectancy,Years,0 years,Male,2021,80.5
+ISR,Israel,Life expectancy,Years,0 years,Male,2020,80.6
+ISR,Israel,Life expectancy,Years,0 years,Male,2019,81.0
+ISR,Israel,Life expectancy,Years,0 years,Male,2018,80.9
+ISR,Israel,Life expectancy,Years,0 years,Male,2017,80.6
+ISR,Israel,Life expectancy,Years,0 years,Male,2016,80.7
+ISR,Israel,Life expectancy,Years,0 years,Male,2015,80.1
+ISR,Israel,Life expectancy,Years,0 years,Female,2022,84.8
+ISR,Israel,Life expectancy,Years,0 years,Female,2021,84.6
+ISR,Israel,Life expectancy,Years,0 years,Female,2020,84.8
+ISR,Israel,Life expectancy,Years,0 years,Male,2023,81.7
+ISR,Israel,Life expectancy,Years,0 years,Total,2023,83.8
+ISR,Israel,Life expectancy,Years,0 years,Female,2023,85.7
+ISR,Israel,Life expectancy,Years,0 years,Total,2022,82.8
+ITA,Italy,Life expectancy,Years,0 years,Total,2018,83.4
+ITA,Italy,Life expectancy,Years,0 years,Total,2017,83.1
+ITA,Italy,Life expectancy,Years,0 years,Total,2016,83.4
+ITA,Italy,Life expectancy,Years,0 years,Female,2019,85.7
+ITA,Italy,Life expectancy,Years,0 years,Female,2018,85.6
+ITA,Italy,Life expectancy,Years,0 years,Female,2017,85.2
+ITA,Italy,Life expectancy,Years,0 years,Female,2016,85.6
+ITA,Italy,Life expectancy,Years,0 years,Female,2015,84.9
+ITA,Italy,Life expectancy,Years,0 years,Total,2015,82.7
+ITA,Italy,Life expectancy,Years,0 years,Male,2023,81.4
+ITA,Italy,Life expectancy,Years,0 years,Male,2022,80.7
+ITA,Italy,Life expectancy,Years,0 years,Male,2021,80.5
+ITA,Italy,Life expectancy,Years,0 years,Male,2020,80.0
+ITA,Italy,Life expectancy,Years,0 years,Male,2019,81.4
+ITA,Italy,Life expectancy,Years,0 years,Male,2018,81.2
+ITA,Italy,Life expectancy,Years,0 years,Male,2017,80.8
+ITA,Italy,Life expectancy,Years,0 years,Male,2016,81.0
+ITA,Italy,Life expectancy,Years,0 years,Male,2015,80.3
+ITA,Italy,Life expectancy,Years,0 years,Female,2023,85.4
+ITA,Italy,Life expectancy,Years,0 years,Female,2022,84.8
+ITA,Italy,Life expectancy,Years,0 years,Female,2021,84.9
+ITA,Italy,Life expectancy,Years,0 years,Female,2020,84.5
+ITA,Italy,Life expectancy,Years,0 years,Total,2023,83.5
+ITA,Italy,Life expectancy,Years,0 years,Total,2022,82.8
+ITA,Italy,Life expectancy,Years,0 years,Total,2021,82.7
+ITA,Italy,Life expectancy,Years,0 years,Total,2020,82.3
+JPN,Japan,Life expectancy,Years,0 years,Total,2018,84.3
+JPN,Japan,Life expectancy,Years,0 years,Total,2017,84.2
+JPN,Japan,Life expectancy,Years,0 years,Total,2016,84.1
+JPN,Japan,Life expectancy,Years,0 years,Female,2019,87.4
+JPN,Japan,Life expectancy,Years,0 years,Female,2018,87.3
+JPN,Japan,Life expectancy,Years,0 years,Female,2017,87.3
+JPN,Japan,Life expectancy,Years,0 years,Female,2016,87.1
+JPN,Japan,Life expectancy,Years,0 years,Female,2015,87.0
+JPN,Japan,Life expectancy,Years,0 years,Total,2015,83.9
+JPN,Japan,Life expectancy,Years,0 years,Male,2023,81.1
+JPN,Japan,Life expectancy,Years,0 years,Male,2022,81.1
+JPN,Japan,Life expectancy,Years,0 years,Male,2021,81.5
+JPN,Japan,Life expectancy,Years,0 years,Male,2020,81.6
+JPN,Japan,Life expectancy,Years,0 years,Male,2019,81.4
+JPN,Japan,Life expectancy,Years,0 years,Male,2018,81.3
+JPN,Japan,Life expectancy,Years,0 years,Male,2017,81.1
+JPN,Japan,Life expectancy,Years,0 years,Male,2016,81.0
+JPN,Japan,Life expectancy,Years,0 years,Male,2015,80.8
+JPN,Japan,Life expectancy,Years,0 years,Female,2023,87.1
+JPN,Japan,Life expectancy,Years,0 years,Female,2022,87.1
+JPN,Japan,Life expectancy,Years,0 years,Female,2021,87.6
+JPN,Japan,Life expectancy,Years,0 years,Female,2020,87.7
+JPN,Japan,Life expectancy,Years,0 years,Total,2023,84.1
+JPN,Japan,Life expectancy,Years,0 years,Total,2022,84.1
+JPN,Japan,Life expectancy,Years,0 years,Total,2021,84.5
+JPN,Japan,Life expectancy,Years,0 years,Total,2020,84.6
+KOR,Korea,Life expectancy,Years,0 years,Total,2018,82.7
+KOR,Korea,Life expectancy,Years,0 years,Total,2017,82.7
+KOR,Korea,Life expectancy,Years,0 years,Total,2016,82.4
+KOR,Korea,Life expectancy,Years,0 years,Female,2019,86.3
+KOR,Korea,Life expectancy,Years,0 years,Female,2018,85.7
+KOR,Korea,Life expectancy,Years,0 years,Female,2017,85.7
+KOR,Korea,Life expectancy,Years,0 years,Female,2016,85.4
+KOR,Korea,Life expectancy,Years,0 years,Female,2015,85.2
+KOR,Korea,Life expectancy,Years,0 years,Total,2015,82.1
+KOR,Korea,Life expectancy,Years,0 years,Male,2023,80.6
+KOR,Korea,Life expectancy,Years,0 years,Male,2022,79.9
+KOR,Korea,Life expectancy,Years,0 years,Male,2021,80.6
+KOR,Korea,Life expectancy,Years,0 years,Male,2020,80.5
+KOR,Korea,Life expectancy,Years,0 years,Male,2019,80.3
+KOR,Korea,Life expectancy,Years,0 years,Male,2018,79.7
+KOR,Korea,Life expectancy,Years,0 years,Male,2017,79.7
+KOR,Korea,Life expectancy,Years,0 years,Male,2016,79.3
+KOR,Korea,Life expectancy,Years,0 years,Male,2015,79.0
+KOR,Korea,Life expectancy,Years,0 years,Female,2023,86.4
+KOR,Korea,Life expectancy,Years,0 years,Female,2022,85.6
+KOR,Korea,Life expectancy,Years,0 years,Female,2021,86.6
+KOR,Korea,Life expectancy,Years,0 years,Female,2020,86.5
+KOR,Korea,Life expectancy,Years,0 years,Total,2023,83.5
+KOR,Korea,Life expectancy,Years,0 years,Total,2022,82.7
+KOR,Korea,Life expectancy,Years,0 years,Total,2021,83.6
+KOR,Korea,Life expectancy,Years,0 years,Total,2020,83.5
+LVA,Latvia,Life expectancy,Years,0 years,Total,2018,75.1
+LVA,Latvia,Life expectancy,Years,0 years,Total,2017,74.9
+LVA,Latvia,Life expectancy,Years,0 years,Total,2016,74.9
+LVA,Latvia,Life expectancy,Years,0 years,Female,2019,80.1
+LVA,Latvia,Life expectancy,Years,0 years,Female,2018,79.7
+LVA,Latvia,Life expectancy,Years,0 years,Female,2017,79.7
+LVA,Latvia,Life expectancy,Years,0 years,Female,2016,79.6
+LVA,Latvia,Life expectancy,Years,0 years,Female,2015,79.5
+LVA,Latvia,Life expectancy,Years,0 years,Total,2015,74.8
+LVA,Latvia,Life expectancy,Years,0 years,Male,2023,70.5
+LVA,Latvia,Life expectancy,Years,0 years,Male,2022,69.4
+LVA,Latvia,Life expectancy,Years,0 years,Male,2021,68.2
+LVA,Latvia,Life expectancy,Years,0 years,Male,2020,70.6
+LVA,Latvia,Life expectancy,Years,0 years,Male,2019,70.9
+LVA,Latvia,Life expectancy,Years,0 years,Male,2018,70.1
+LVA,Latvia,Life expectancy,Years,0 years,Male,2017,69.8
+LVA,Latvia,Life expectancy,Years,0 years,Male,2016,69.8
+LVA,Latvia,Life expectancy,Years,0 years,Male,2015,69.7
+LVA,Latvia,Life expectancy,Years,0 years,Female,2023,80.6
+LVA,Latvia,Life expectancy,Years,0 years,Female,2022,79.4
+LVA,Latvia,Life expectancy,Years,0 years,Female,2021,78.0
+LVA,Latvia,Life expectancy,Years,0 years,Female,2020,80.0
+LVA,Latvia,Life expectancy,Years,0 years,Total,2023,75.6
+LVA,Latvia,Life expectancy,Years,0 years,Total,2022,74.5
+LVA,Latvia,Life expectancy,Years,0 years,Total,2021,73.1
+LVA,Latvia,Life expectancy,Years,0 years,Total,2020,75.5
+LTU,Lithuania,Life expectancy,Years,0 years,Total,2018,76.0
+LTU,Lithuania,Life expectancy,Years,0 years,Total,2017,75.8
+LTU,Lithuania,Life expectancy,Years,0 years,Total,2016,74.9
+LTU,Lithuania,Life expectancy,Years,0 years,Female,2019,81.2
+LTU,Lithuania,Life expectancy,Years,0 years,Female,2018,80.7
+LTU,Lithuania,Life expectancy,Years,0 years,Female,2017,80.5
+LTU,Lithuania,Life expectancy,Years,0 years,Female,2016,80.1
+LTU,Lithuania,Life expectancy,Years,0 years,Female,2015,79.7
+LTU,Lithuania,Life expectancy,Years,0 years,Total,2015,74.6
+LTU,Lithuania,Life expectancy,Years,0 years,Male,2023,72.9
+LTU,Lithuania,Life expectancy,Years,0 years,Male,2022,71.4
+LTU,Lithuania,Life expectancy,Years,0 years,Male,2021,69.5
+LTU,Lithuania,Life expectancy,Years,0 years,Male,2020,70.2
+LTU,Lithuania,Life expectancy,Years,0 years,Male,2019,71.6
+LTU,Lithuania,Life expectancy,Years,0 years,Male,2018,70.9
+LTU,Lithuania,Life expectancy,Years,0 years,Male,2017,70.7
+LTU,Lithuania,Life expectancy,Years,0 years,Male,2016,69.5
+LTU,Lithuania,Life expectancy,Years,0 years,Male,2015,69.2
+LTU,Lithuania,Life expectancy,Years,0 years,Female,2023,81.9
+LTU,Lithuania,Life expectancy,Years,0 years,Female,2022,80.1
+LTU,Lithuania,Life expectancy,Years,0 years,Female,2021,78.8
+LTU,Lithuania,Life expectancy,Years,0 years,Female,2020,80.1
+LTU,Lithuania,Life expectancy,Years,0 years,Total,2023,77.6
+LTU,Lithuania,Life expectancy,Years,0 years,Total,2022,75.8
+LTU,Lithuania,Life expectancy,Years,0 years,Total,2021,74.2
+LTU,Lithuania,Life expectancy,Years,0 years,Total,2020,75.2
+LUX,Luxembourg,Life expectancy,Years,0 years,Total,2018,82.3
+LUX,Luxembourg,Life expectancy,Years,0 years,Total,2017,82.1
+LUX,Luxembourg,Life expectancy,Years,0 years,Total,2016,82.7
+LUX,Luxembourg,Life expectancy,Years,0 years,Female,2019,85.2
+LUX,Luxembourg,Life expectancy,Years,0 years,Female,2018,84.6
+LUX,Luxembourg,Life expectancy,Years,0 years,Female,2017,84.4
+LUX,Luxembourg,Life expectancy,Years,0 years,Female,2016,85.4
+LUX,Luxembourg,Life expectancy,Years,0 years,Female,2015,84.7
+LUX,Luxembourg,Life expectancy,Years,0 years,Total,2015,82.4
+LUX,Luxembourg,Life expectancy,Years,0 years,Male,2023,81.7
+LUX,Luxembourg,Life expectancy,Years,0 years,Male,2022,80.8
+LUX,Luxembourg,Life expectancy,Years,0 years,Male,2021,80.5
+LUX,Luxembourg,Life expectancy,Years,0 years,Male,2020,79.9
+LUX,Luxembourg,Life expectancy,Years,0 years,Male,2019,80.2
+LUX,Luxembourg,Life expectancy,Years,0 years,Male,2018,80.1
+LUX,Luxembourg,Life expectancy,Years,0 years,Male,2017,79.9
+LUX,Luxembourg,Life expectancy,Years,0 years,Male,2016,80.1
+LUX,Luxembourg,Life expectancy,Years,0 years,Male,2015,80.0
+LUX,Luxembourg,Life expectancy,Years,0 years,Female,2023,85.0
+LUX,Luxembourg,Life expectancy,Years,0 years,Female,2022,85.2
+LUX,Luxembourg,Life expectancy,Years,0 years,Female,2021,84.8
+LUX,Luxembourg,Life expectancy,Years,0 years,Female,2020,84.5
+LUX,Luxembourg,Life expectancy,Years,0 years,Total,2023,83.4
+LUX,Luxembourg,Life expectancy,Years,0 years,Total,2022,83.0
+LUX,Luxembourg,Life expectancy,Years,0 years,Total,2021,82.7
+LUX,Luxembourg,Life expectancy,Years,0 years,Total,2020,82.2
+MEX,Mexico,Life expectancy,Years,0 years,Total,2016,74.8
+MEX,Mexico,Life expectancy,Years,0 years,Total,2015,75.1
+MEX,Mexico,Life expectancy,Years,0 years,Male,2024,72.4
+MEX,Mexico,Life expectancy,Years,0 years,Female,2019,78.0
+MEX,Mexico,Life expectancy,Years,0 years,Female,2018,78.0
+MEX,Mexico,Life expectancy,Years,0 years,Female,2017,77.9
+MEX,Mexico,Life expectancy,Years,0 years,Female,2016,77.7
+MEX,Mexico,Life expectancy,Years,0 years,Female,2015,77.8
+MEX,Mexico,Life expectancy,Years,0 years,Male,2023,72.3
+MEX,Mexico,Life expectancy,Years,0 years,Male,2022,72.1
+MEX,Mexico,Life expectancy,Years,0 years,Male,2021,64.9
+MEX,Mexico,Life expectancy,Years,0 years,Male,2020,64.9
+MEX,Mexico,Life expectancy,Years,0 years,Male,2019,71.8
+MEX,Mexico,Life expectancy,Years,0 years,Male,2018,71.8
+MEX,Mexico,Life expectancy,Years,0 years,Male,2017,72.0
+MEX,Mexico,Life expectancy,Years,0 years,Male,2016,72.0
+MEX,Mexico,Life expectancy,Years,0 years,Male,2015,72.4
+MEX,Mexico,Life expectancy,Years,0 years,Female,2024,78.9
+MEX,Mexico,Life expectancy,Years,0 years,Female,2023,78.6
+MEX,Mexico,Life expectancy,Years,0 years,Female,2022,78.5
+MEX,Mexico,Life expectancy,Years,0 years,Female,2021,73.1
+MEX,Mexico,Life expectancy,Years,0 years,Female,2020,73.5
+MEX,Mexico,Life expectancy,Years,0 years,Total,2024,75.5
+MEX,Mexico,Life expectancy,Years,0 years,Total,2023,75.3
+MEX,Mexico,Life expectancy,Years,0 years,Total,2022,75.2
+MEX,Mexico,Life expectancy,Years,0 years,Total,2021,68.8
+MEX,Mexico,Life expectancy,Years,0 years,Total,2020,68.9
+MEX,Mexico,Life expectancy,Years,0 years,Total,2019,74.8
+MEX,Mexico,Life expectancy,Years,0 years,Total,2018,74.9
+NLD,Netherlands,Life expectancy,Years,0 years,Total,2018,81.9
+NLD,Netherlands,Life expectancy,Years,0 years,Total,2017,81.8
+NLD,Netherlands,Life expectancy,Years,0 years,Total,2016,81.7
+NLD,Netherlands,Life expectancy,Years,0 years,Female,2019,83.7
+NLD,Netherlands,Life expectancy,Years,0 years,Female,2018,83.4
+NLD,Netherlands,Life expectancy,Years,0 years,Female,2017,83.4
+NLD,Netherlands,Life expectancy,Years,0 years,Female,2016,83.2
+NLD,Netherlands,Life expectancy,Years,0 years,Female,2015,83.2
+NLD,Netherlands,Life expectancy,Years,0 years,Total,2015,81.6
+NLD,Netherlands,Life expectancy,Years,0 years,Male,2023,80.4
+NLD,Netherlands,Life expectancy,Years,0 years,Male,2022,80.2
+NLD,Netherlands,Life expectancy,Years,0 years,Male,2021,79.7
+NLD,Netherlands,Life expectancy,Years,0 years,Male,2020,79.7
+NLD,Netherlands,Life expectancy,Years,0 years,Male,2019,80.6
+NLD,Netherlands,Life expectancy,Years,0 years,Male,2018,80.3
+NLD,Netherlands,Life expectancy,Years,0 years,Male,2017,80.2
+NLD,Netherlands,Life expectancy,Years,0 years,Male,2016,80.0
+NLD,Netherlands,Life expectancy,Years,0 years,Male,2015,79.9
+NLD,Netherlands,Life expectancy,Years,0 years,Female,2023,83.4
+NLD,Netherlands,Life expectancy,Years,0 years,Female,2022,83.1
+NLD,Netherlands,Life expectancy,Years,0 years,Female,2021,83.0
+NLD,Netherlands,Life expectancy,Years,0 years,Female,2020,83.1
+NLD,Netherlands,Life expectancy,Years,0 years,Total,2023,81.9
+NLD,Netherlands,Life expectancy,Years,0 years,Total,2022,81.7
+NLD,Netherlands,Life expectancy,Years,0 years,Total,2021,81.4
+NLD,Netherlands,Life expectancy,Years,0 years,Total,2020,81.4
+NZL,New Zealand,Life expectancy,Years,0 years,Total,2021,82.3
+NZL,New Zealand,Life expectancy,Years,0 years,Total,2020,82.3
+NZL,New Zealand,Life expectancy,Years,0 years,Total,2019,82.1
+NZL,New Zealand,Life expectancy,Years,0 years,Female,2019,83.9
+NZL,New Zealand,Life expectancy,Years,0 years,Female,2018,83.5
+NZL,New Zealand,Life expectancy,Years,0 years,Female,2017,83.4
+NZL,New Zealand,Life expectancy,Years,0 years,Female,2016,83.4
+NZL,New Zealand,Life expectancy,Years,0 years,Female,2015,83.3
+NZL,New Zealand,Life expectancy,Years,0 years,Total,2018,81.7
+NZL,New Zealand,Life expectancy,Years,0 years,Male,2023,80.3
+NZL,New Zealand,Life expectancy,Years,0 years,Male,2022,80.3
+NZL,New Zealand,Life expectancy,Years,0 years,Male,2021,80.5
+NZL,New Zealand,Life expectancy,Years,0 years,Male,2020,80.5
+NZL,New Zealand,Life expectancy,Years,0 years,Male,2019,80.3
+NZL,New Zealand,Life expectancy,Years,0 years,Male,2018,80.0
+NZL,New Zealand,Life expectancy,Years,0 years,Male,2017,79.9
+NZL,New Zealand,Life expectancy,Years,0 years,Male,2016,79.8
+NZL,New Zealand,Life expectancy,Years,0 years,Male,2015,79.7
+NZL,New Zealand,Life expectancy,Years,0 years,Female,2023,83.7
+NZL,New Zealand,Life expectancy,Years,0 years,Female,2022,83.7
+NZL,New Zealand,Life expectancy,Years,0 years,Female,2021,84.0
+NZL,New Zealand,Life expectancy,Years,0 years,Female,2020,84.1
+NZL,New Zealand,Life expectancy,Years,0 years,Total,2017,81.7
+NZL,New Zealand,Life expectancy,Years,0 years,Total,2016,81.6
+NZL,New Zealand,Life expectancy,Years,0 years,Total,2015,81.5
+NZL,New Zealand,Life expectancy,Years,0 years,Total,2023,82.0
+NOR,Norway,Life expectancy,Years,0 years,Total,2018,82.8
+NOR,Norway,Life expectancy,Years,0 years,Total,2017,82.7
+NOR,Norway,Life expectancy,Years,0 years,Total,2016,82.5
+NOR,Norway,Life expectancy,Years,0 years,Female,2019,84.7
+NOR,Norway,Life expectancy,Years,0 years,Female,2018,84.5
+NOR,Norway,Life expectancy,Years,0 years,Female,2017,84.3
+NOR,Norway,Life expectancy,Years,0 years,Female,2016,84.2
+NOR,Norway,Life expectancy,Years,0 years,Female,2015,84.2
+NOR,Norway,Life expectancy,Years,0 years,Total,2015,82.4
+NOR,Norway,Life expectancy,Years,0 years,Male,2023,81.5
+NOR,Norway,Life expectancy,Years,0 years,Male,2022,80.9
+NOR,Norway,Life expectancy,Years,0 years,Male,2021,81.7
+NOR,Norway,Life expectancy,Years,0 years,Male,2020,81.6
+NOR,Norway,Life expectancy,Years,0 years,Male,2019,81.3
+NOR,Norway,Life expectancy,Years,0 years,Male,2018,81.1
+NOR,Norway,Life expectancy,Years,0 years,Male,2017,81.0
+NOR,Norway,Life expectancy,Years,0 years,Male,2016,80.7
+NOR,Norway,Life expectancy,Years,0 years,Male,2015,80.5
+NOR,Norway,Life expectancy,Years,0 years,Female,2023,84.6
+NOR,Norway,Life expectancy,Years,0 years,Female,2022,84.2
+NOR,Norway,Life expectancy,Years,0 years,Female,2021,84.7
+NOR,Norway,Life expectancy,Years,0 years,Female,2020,84.9
+NOR,Norway,Life expectancy,Years,0 years,Total,2023,83.1
+NOR,Norway,Life expectancy,Years,0 years,Total,2022,82.5
+NOR,Norway,Life expectancy,Years,0 years,Total,2021,83.2
+NOR,Norway,Life expectancy,Years,0 years,Total,2020,83.3
+POL,Poland,Life expectancy,Years,0 years,Total,2018,77.7
+POL,Poland,Life expectancy,Years,0 years,Total,2017,77.8
+POL,Poland,Life expectancy,Years,0 years,Total,2016,78.0
+POL,Poland,Life expectancy,Years,0 years,Female,2019,81.9
+POL,Poland,Life expectancy,Years,0 years,Female,2018,81.7
+POL,Poland,Life expectancy,Years,0 years,Female,2017,81.8
+POL,Poland,Life expectancy,Years,0 years,Female,2016,82.0
+POL,Poland,Life expectancy,Years,0 years,Female,2015,81.6
+POL,Poland,Life expectancy,Years,0 years,Total,2015,77.5
+POL,Poland,Life expectancy,Years,0 years,Male,2023,74.6
+POL,Poland,Life expectancy,Years,0 years,Male,2022,73.4
+POL,Poland,Life expectancy,Years,0 years,Male,2021,71.4
+POL,Poland,Life expectancy,Years,0 years,Male,2020,72.4
+POL,Poland,Life expectancy,Years,0 years,Male,2019,74.1
+POL,Poland,Life expectancy,Years,0 years,Male,2018,73.7
+POL,Poland,Life expectancy,Years,0 years,Male,2017,73.9
+POL,Poland,Life expectancy,Years,0 years,Male,2016,73.9
+POL,Poland,Life expectancy,Years,0 years,Male,2015,73.5
+POL,Poland,Life expectancy,Years,0 years,Female,2023,82.1
+POL,Poland,Life expectancy,Years,0 years,Female,2022,81.1
+POL,Poland,Life expectancy,Years,0 years,Female,2021,79.5
+POL,Poland,Life expectancy,Years,0 years,Female,2020,80.6
+POL,Poland,Life expectancy,Years,0 years,Total,2023,78.4
+POL,Poland,Life expectancy,Years,0 years,Total,2022,77.2
+POL,Poland,Life expectancy,Years,0 years,Total,2021,75.4
+POL,Poland,Life expectancy,Years,0 years,Total,2020,76.4
+PRT,Portugal,Life expectancy,Years,0 years,Total,2018,81.5
+PRT,Portugal,Life expectancy,Years,0 years,Total,2017,81.6
+PRT,Portugal,Life expectancy,Years,0 years,Total,2016,81.3
+PRT,Portugal,Life expectancy,Years,0 years,Female,2019,84.8
+PRT,Portugal,Life expectancy,Years,0 years,Female,2018,84.5
+PRT,Portugal,Life expectancy,Years,0 years,Female,2017,84.6
+PRT,Portugal,Life expectancy,Years,0 years,Female,2016,84.3
+PRT,Portugal,Life expectancy,Years,0 years,Female,2015,84.3
+PRT,Portugal,Life expectancy,Years,0 years,Total,2015,81.3
+PRT,Portugal,Life expectancy,Years,0 years,Male,2023,79.5
+PRT,Portugal,Life expectancy,Years,0 years,Male,2022,78.9
+PRT,Portugal,Life expectancy,Years,0 years,Male,2021,78.5
+PRT,Portugal,Life expectancy,Years,0 years,Male,2020,78.5
+PRT,Portugal,Life expectancy,Years,0 years,Male,2019,78.7
+PRT,Portugal,Life expectancy,Years,0 years,Male,2018,78.3
+PRT,Portugal,Life expectancy,Years,0 years,Male,2017,78.4
+PRT,Portugal,Life expectancy,Years,0 years,Male,2016,78.1
+PRT,Portugal,Life expectancy,Years,0 years,Male,2015,78.1
+PRT,Portugal,Life expectancy,Years,0 years,Female,2023,85.3
+PRT,Portugal,Life expectancy,Years,0 years,Female,2022,84.5
+PRT,Portugal,Life expectancy,Years,0 years,Female,2021,84.4
+PRT,Portugal,Life expectancy,Years,0 years,Female,2020,84.3
+PRT,Portugal,Life expectancy,Years,0 years,Total,2023,82.5
+PRT,Portugal,Life expectancy,Years,0 years,Total,2022,81.8
+PRT,Portugal,Life expectancy,Years,0 years,Total,2021,81.5
+PRT,Portugal,Life expectancy,Years,0 years,Total,2020,81.5
+SVK,Slovak Republic,Life expectancy,Years,0 years,Total,2018,77.4
+SVK,Slovak Republic,Life expectancy,Years,0 years,Total,2017,77.3
+SVK,Slovak Republic,Life expectancy,Years,0 years,Total,2016,77.3
+SVK,Slovak Republic,Life expectancy,Years,0 years,Female,2019,81.2
+SVK,Slovak Republic,Life expectancy,Years,0 years,Female,2018,80.8
+SVK,Slovak Republic,Life expectancy,Years,0 years,Female,2017,80.7
+SVK,Slovak Republic,Life expectancy,Years,0 years,Female,2016,80.7
+SVK,Slovak Republic,Life expectancy,Years,0 years,Female,2015,80.2
+SVK,Slovak Republic,Life expectancy,Years,0 years,Total,2015,76.7
+SVK,Slovak Republic,Life expectancy,Years,0 years,Male,2023,74.9
+SVK,Slovak Republic,Life expectancy,Years,0 years,Male,2022,73.6
+SVK,Slovak Republic,Life expectancy,Years,0 years,Male,2021,71.2
+SVK,Slovak Republic,Life expectancy,Years,0 years,Male,2020,73.5
+SVK,Slovak Republic,Life expectancy,Years,0 years,Male,2019,74.3
+SVK,Slovak Republic,Life expectancy,Years,0 years,Male,2018,73.9
+SVK,Slovak Republic,Life expectancy,Years,0 years,Male,2017,73.8
+SVK,Slovak Republic,Life expectancy,Years,0 years,Male,2016,73.8
+SVK,Slovak Republic,Life expectancy,Years,0 years,Male,2015,73.1
+SVK,Slovak Republic,Life expectancy,Years,0 years,Female,2023,81.5
+SVK,Slovak Republic,Life expectancy,Years,0 years,Female,2022,80.5
+SVK,Slovak Republic,Life expectancy,Years,0 years,Female,2021,78.2
+SVK,Slovak Republic,Life expectancy,Years,0 years,Female,2020,80.4
+SVK,Slovak Republic,Life expectancy,Years,0 years,Total,2023,78.2
+SVK,Slovak Republic,Life expectancy,Years,0 years,Total,2022,77.0
+SVK,Slovak Republic,Life expectancy,Years,0 years,Total,2021,74.6
+SVK,Slovak Republic,Life expectancy,Years,0 years,Total,2020,77.0
+SVN,Slovenia,Life expectancy,Years,0 years,Total,2018,81.5
+SVN,Slovenia,Life expectancy,Years,0 years,Total,2017,81.2
+SVN,Slovenia,Life expectancy,Years,0 years,Total,2016,81.2
+SVN,Slovenia,Life expectancy,Years,0 years,Female,2019,84.5
+SVN,Slovenia,Life expectancy,Years,0 years,Female,2018,84.4
+SVN,Slovenia,Life expectancy,Years,0 years,Female,2017,84.0
+SVN,Slovenia,Life expectancy,Years,0 years,Female,2016,84.3
+SVN,Slovenia,Life expectancy,Years,0 years,Female,2015,83.9
+SVN,Slovenia,Life expectancy,Years,0 years,Total,2015,80.9
+SVN,Slovenia,Life expectancy,Years,0 years,Male,2023,79.1
+SVN,Slovenia,Life expectancy,Years,0 years,Male,2022,78.6
+SVN,Slovenia,Life expectancy,Years,0 years,Male,2021,77.7
+SVN,Slovenia,Life expectancy,Years,0 years,Male,2020,77.8
+SVN,Slovenia,Life expectancy,Years,0 years,Male,2019,78.7
+SVN,Slovenia,Life expectancy,Years,0 years,Male,2018,78.5
+SVN,Slovenia,Life expectancy,Years,0 years,Male,2017,78.2
+SVN,Slovenia,Life expectancy,Years,0 years,Male,2016,78.2
+SVN,Slovenia,Life expectancy,Years,0 years,Male,2015,77.8
+SVN,Slovenia,Life expectancy,Years,0 years,Female,2023,84.9
+SVN,Slovenia,Life expectancy,Years,0 years,Female,2022,84.1
+SVN,Slovenia,Life expectancy,Years,0 years,Female,2021,83.8
+SVN,Slovenia,Life expectancy,Years,0 years,Female,2020,83.4
+SVN,Slovenia,Life expectancy,Years,0 years,Total,2023,82.0
+SVN,Slovenia,Life expectancy,Years,0 years,Total,2022,81.3
+SVN,Slovenia,Life expectancy,Years,0 years,Total,2021,80.7
+SVN,Slovenia,Life expectancy,Years,0 years,Total,2020,80.6
+ESP,Spain,Life expectancy,Years,0 years,Total,2022,83.2
+ESP,Spain,Life expectancy,Years,0 years,Total,2021,83.3
+ESP,Spain,Life expectancy,Years,0 years,Female,2021,86.2
+ESP,Spain,Life expectancy,Years,0 years,Female,2016,86.3
+ESP,Spain,Life expectancy,Years,0 years,Total,2016,83.5
+ESP,Spain,Life expectancy,Years,0 years,Total,2015,83.0
+ESP,Spain,Life expectancy,Years,0 years,Female,2015,85.7
+ESP,Spain,Life expectancy,Years,0 years,Male,2015,80.1
+ESP,Spain,Life expectancy,Years,0 years,Male,2021,80.3
+ESP,Spain,Life expectancy,Years,0 years,Male,2020,79.5
+ESP,Spain,Life expectancy,Years,0 years,Female,2020,85.1
+ESP,Spain,Life expectancy,Years,0 years,Total,2020,82.3
+ESP,Spain,Life expectancy,Years,0 years,Total,2019,84.0
+ESP,Spain,Life expectancy,Years,0 years,Female,2019,86.7
+ESP,Spain,Life expectancy,Years,0 years,Male,2019,81.1
+ESP,Spain,Life expectancy,Years,0 years,Male,2018,80.7
+ESP,Spain,Life expectancy,Years,0 years,Female,2018,86.3
+ESP,Spain,Life expectancy,Years,0 years,Total,2018,83.5
+ESP,Spain,Life expectancy,Years,0 years,Total,2017,83.4
+ESP,Spain,Life expectancy,Years,0 years,Female,2017,86.1
+ESP,Spain,Life expectancy,Years,0 years,Male,2017,80.6
+ESP,Spain,Life expectancy,Years,0 years,Male,2016,80.5
+ESP,Spain,Life expectancy,Years,0 years,Total,2023,84.0
+ESP,Spain,Life expectancy,Years,0 years,Female,2023,86.7
+ESP,Spain,Life expectancy,Years,0 years,Male,2023,81.3
+ESP,Spain,Life expectancy,Years,0 years,Male,2022,80.5
+SWE,Sweden,Life expectancy,Years,0 years,Male,2018,80.9
+SWE,Sweden,Life expectancy,Years,0 years,Male,2017,80.8
+SWE,Sweden,Life expectancy,Years,0 years,Male,2016,80.6
+SWE,Sweden,Life expectancy,Years,0 years,Total,2019,83.2
+SWE,Sweden,Life expectancy,Years,0 years,Total,2018,82.6
+SWE,Sweden,Life expectancy,Years,0 years,Total,2017,82.5
+SWE,Sweden,Life expectancy,Years,0 years,Total,2016,82.4
+SWE,Sweden,Life expectancy,Years,0 years,Total,2015,82.2
+SWE,Sweden,Life expectancy,Years,0 years,Male,2015,80.4
+SWE,Sweden,Life expectancy,Years,0 years,Female,2023,85.0
+SWE,Sweden,Life expectancy,Years,0 years,Female,2022,84.8
+SWE,Sweden,Life expectancy,Years,0 years,Female,2021,84.9
+SWE,Sweden,Life expectancy,Years,0 years,Female,2020,84.2
+SWE,Sweden,Life expectancy,Years,0 years,Female,2019,84.8
+SWE,Sweden,Life expectancy,Years,0 years,Female,2018,84.3
+SWE,Sweden,Life expectancy,Years,0 years,Female,2017,84.1
+SWE,Sweden,Life expectancy,Years,0 years,Female,2016,84.1
+SWE,Sweden,Life expectancy,Years,0 years,Female,2015,84.1
+SWE,Sweden,Life expectancy,Years,0 years,Total,2023,83.4
+SWE,Sweden,Life expectancy,Years,0 years,Total,2022,83.1
+SWE,Sweden,Life expectancy,Years,0 years,Total,2021,83.1
+SWE,Sweden,Life expectancy,Years,0 years,Total,2020,82.4
+SWE,Sweden,Life expectancy,Years,0 years,Male,2023,81.7
+SWE,Sweden,Life expectancy,Years,0 years,Male,2022,81.4
+SWE,Sweden,Life expectancy,Years,0 years,Male,2021,81.3
+SWE,Sweden,Life expectancy,Years,0 years,Male,2020,80.6
+CHE,Switzerland,Life expectancy,Years,0 years,Female,2018,85.7
+CHE,Switzerland,Life expectancy,Years,0 years,Female,2017,85.6
+CHE,Switzerland,Life expectancy,Years,0 years,Female,2016,85.6
+CHE,Switzerland,Life expectancy,Years,0 years,Male,2019,82.1
+CHE,Switzerland,Life expectancy,Years,0 years,Male,2018,81.9
+CHE,Switzerland,Life expectancy,Years,0 years,Male,2017,81.6
+CHE,Switzerland,Life expectancy,Years,0 years,Male,2016,81.7
+CHE,Switzerland,Life expectancy,Years,0 years,Male,2015,80.8
+CHE,Switzerland,Life expectancy,Years,0 years,Female,2015,85.1
+CHE,Switzerland,Life expectancy,Years,0 years,Total,2023,84.3
+CHE,Switzerland,Life expectancy,Years,0 years,Total,2022,83.7
+CHE,Switzerland,Life expectancy,Years,0 years,Total,2021,83.9
+CHE,Switzerland,Life expectancy,Years,0 years,Total,2020,83.1
+CHE,Switzerland,Life expectancy,Years,0 years,Total,2019,84.0
+CHE,Switzerland,Life expectancy,Years,0 years,Total,2018,83.8
+CHE,Switzerland,Life expectancy,Years,0 years,Total,2017,83.7
+CHE,Switzerland,Life expectancy,Years,0 years,Total,2016,83.7
+CHE,Switzerland,Life expectancy,Years,0 years,Total,2015,83.0
+CHE,Switzerland,Life expectancy,Years,0 years,Male,2023,82.4
+CHE,Switzerland,Life expectancy,Years,0 years,Male,2022,81.8
+CHE,Switzerland,Life expectancy,Years,0 years,Male,2021,81.8
+CHE,Switzerland,Life expectancy,Years,0 years,Male,2020,81.0
+CHE,Switzerland,Life expectancy,Years,0 years,Female,2023,86.0
+CHE,Switzerland,Life expectancy,Years,0 years,Female,2022,85.5
+CHE,Switzerland,Life expectancy,Years,0 years,Female,2021,85.8
+CHE,Switzerland,Life expectancy,Years,0 years,Female,2020,85.1
+TUR,Türkiye,Life expectancy,Years,0 years,Male,2022,74.7
+TUR,Türkiye,Life expectancy,Years,0 years,Male,2021,74.8
+TUR,Türkiye,Life expectancy,Years,0 years,Total,2021,77.5
+TUR,Türkiye,Life expectancy,Years,0 years,Total,2016,78.0
+TUR,Türkiye,Life expectancy,Years,0 years,Male,2016,75.3
+TUR,Türkiye,Life expectancy,Years,0 years,Male,2015,75.3
+TUR,Türkiye,Life expectancy,Years,0 years,Total,2015,78.0
+TUR,Türkiye,Life expectancy,Years,0 years,Female,2015,80.7
+TUR,Türkiye,Life expectancy,Years,0 years,Female,2021,80.3
+TUR,Türkiye,Life expectancy,Years,0 years,Female,2020,80.5
+TUR,Türkiye,Life expectancy,Years,0 years,Total,2020,77.7
+TUR,Türkiye,Life expectancy,Years,0 years,Male,2020,75.0
+TUR,Türkiye,Life expectancy,Years,0 years,Male,2019,75.6
+TUR,Türkiye,Life expectancy,Years,0 years,Total,2019,78.3
+TUR,Türkiye,Life expectancy,Years,0 years,Female,2019,81.1
+TUR,Türkiye,Life expectancy,Years,0 years,Female,2018,81.3
+TUR,Türkiye,Life expectancy,Years,0 years,Total,2018,78.6
+TUR,Türkiye,Life expectancy,Years,0 years,Male,2018,75.9
+TUR,Türkiye,Life expectancy,Years,0 years,Male,2017,75.6
+TUR,Türkiye,Life expectancy,Years,0 years,Total,2017,78.3
+TUR,Türkiye,Life expectancy,Years,0 years,Female,2017,81.0
+TUR,Türkiye,Life expectancy,Years,0 years,Female,2016,80.8
+TUR,Türkiye,Life expectancy,Years,0 years,Female,2022,80.0
+GBR,United Kingdom,Life expectancy,Years,0 years,Total,2018,81.0
+GBR,United Kingdom,Life expectancy,Years,0 years,Total,2017,81.1
+GBR,United Kingdom,Life expectancy,Years,0 years,Total,2016,81.0
+GBR,United Kingdom,Life expectancy,Years,0 years,Female,2019,83.2
+GBR,United Kingdom,Life expectancy,Years,0 years,Female,2018,82.9
+GBR,United Kingdom,Life expectancy,Years,0 years,Female,2017,82.9
+GBR,United Kingdom,Life expectancy,Years,0 years,Female,2016,82.8
+GBR,United Kingdom,Life expectancy,Years,0 years,Female,2015,82.7
+GBR,United Kingdom,Life expectancy,Years,0 years,Total,2015,80.9
+GBR,United Kingdom,Life expectancy,Years,0 years,Male,2023,79.0
+GBR,United Kingdom,Life expectancy,Years,0 years,Male,2022,79.0
+GBR,United Kingdom,Life expectancy,Years,0 years,Male,2021,78.5
+GBR,United Kingdom,Life expectancy,Years,0 years,Male,2020,78.3
+GBR,United Kingdom,Life expectancy,Years,0 years,Male,2019,79.5
+GBR,United Kingdom,Life expectancy,Years,0 years,Male,2018,79.2
+GBR,United Kingdom,Life expectancy,Years,0 years,Male,2017,79.2
+GBR,United Kingdom,Life expectancy,Years,0 years,Male,2016,79.2
+GBR,United Kingdom,Life expectancy,Years,0 years,Male,2015,79.0
+GBR,United Kingdom,Life expectancy,Years,0 years,Female,2023,82.9
+GBR,United Kingdom,Life expectancy,Years,0 years,Female,2022,82.9
+GBR,United Kingdom,Life expectancy,Years,0 years,Female,2021,82.5
+GBR,United Kingdom,Life expectancy,Years,0 years,Female,2020,82.3
+GBR,United Kingdom,Life expectancy,Years,0 years,Total,2023,81.0
+GBR,United Kingdom,Life expectancy,Years,0 years,Total,2022,80.9
+GBR,United Kingdom,Life expectancy,Years,0 years,Total,2021,80.5
+GBR,United Kingdom,Life expectancy,Years,0 years,Total,2020,80.3
+USA,United States,Life expectancy,Years,0 years,Male,2018,76.2
+USA,United States,Life expectancy,Years,0 years,Male,2017,76.1
+USA,United States,Life expectancy,Years,0 years,Male,2016,76.2
+USA,United States,Life expectancy,Years,0 years,Total,2019,78.8
+USA,United States,Life expectancy,Years,0 years,Total,2018,78.7
+USA,United States,Life expectancy,Years,0 years,Total,2017,78.6
+USA,United States,Life expectancy,Years,0 years,Total,2016,78.7
+USA,United States,Life expectancy,Years,0 years,Total,2015,78.7
+USA,United States,Life expectancy,Years,0 years,Male,2015,76.3
+USA,United States,Life expectancy,Years,0 years,Female,2023,81.1
+USA,United States,Life expectancy,Years,0 years,Female,2022,80.2
+USA,United States,Life expectancy,Years,0 years,Female,2021,79.3
+USA,United States,Life expectancy,Years,0 years,Female,2020,79.9
+USA,United States,Life expectancy,Years,0 years,Female,2019,81.4
+USA,United States,Life expectancy,Years,0 years,Female,2018,81.2
+USA,United States,Life expectancy,Years,0 years,Female,2017,81.1
+USA,United States,Life expectancy,Years,0 years,Female,2016,81.1
+USA,United States,Life expectancy,Years,0 years,Female,2015,81.1
+USA,United States,Life expectancy,Years,0 years,Total,2023,78.4
+USA,United States,Life expectancy,Years,0 years,Total,2022,77.5
+USA,United States,Life expectancy,Years,0 years,Total,2021,76.4
+USA,United States,Life expectancy,Years,0 years,Total,2020,77.0
+USA,United States,Life expectancy,Years,0 years,Male,2023,75.8
+USA,United States,Life expectancy,Years,0 years,Male,2022,74.8
+USA,United States,Life expectancy,Years,0 years,Male,2021,73.5
+USA,United States,Life expectancy,Years,0 years,Male,2020,74.2
+ARG,Argentina,Life expectancy,Years,0 years,Male,2018,74.0
+ARG,Argentina,Life expectancy,Years,0 years,Male,2017,73.8
+ARG,Argentina,Life expectancy,Years,0 years,Male,2016,73.0
+ARG,Argentina,Life expectancy,Years,0 years,Total,2019,76.8
+ARG,Argentina,Life expectancy,Years,0 years,Total,2018,76.8
+ARG,Argentina,Life expectancy,Years,0 years,Total,2017,76.5
+ARG,Argentina,Life expectancy,Years,0 years,Total,2016,76.1
+ARG,Argentina,Life expectancy,Years,0 years,Total,2015,76.6
+ARG,Argentina,Life expectancy,Years,0 years,Male,2015,73.4
+ARG,Argentina,Life expectancy,Years,0 years,Female,2023,79.9
+ARG,Argentina,Life expectancy,Years,0 years,Female,2022,78.3
+ARG,Argentina,Life expectancy,Years,0 years,Female,2021,76.9
+ARG,Argentina,Life expectancy,Years,0 years,Female,2020,78.8
+ARG,Argentina,Life expectancy,Years,0 years,Female,2019,79.4
+ARG,Argentina,Life expectancy,Years,0 years,Female,2018,79.5
+ARG,Argentina,Life expectancy,Years,0 years,Female,2017,79.2
+ARG,Argentina,Life expectancy,Years,0 years,Female,2016,79.1
+ARG,Argentina,Life expectancy,Years,0 years,Female,2015,79.8
+ARG,Argentina,Life expectancy,Years,0 years,Total,2023,77.4
+ARG,Argentina,Life expectancy,Years,0 years,Total,2022,75.8
+ARG,Argentina,Life expectancy,Years,0 years,Total,2021,73.9
+ARG,Argentina,Life expectancy,Years,0 years,Total,2020,75.9
+ARG,Argentina,Life expectancy,Years,0 years,Male,2023,74.8
+ARG,Argentina,Life expectancy,Years,0 years,Male,2022,73.2
+ARG,Argentina,Life expectancy,Years,0 years,Male,2021,71.1
+ARG,Argentina,Life expectancy,Years,0 years,Male,2020,73.0
+BRA,Brazil,Life expectancy,Years,0 years,Male,2018,72.4
+BRA,Brazil,Life expectancy,Years,0 years,Male,2017,72.1
+BRA,Brazil,Life expectancy,Years,0 years,Male,2016,71.7
+BRA,Brazil,Life expectancy,Years,0 years,Total,2019,75.8
+BRA,Brazil,Life expectancy,Years,0 years,Total,2018,75.6
+BRA,Brazil,Life expectancy,Years,0 years,Total,2017,75.4
+BRA,Brazil,Life expectancy,Years,0 years,Total,2016,75.1
+BRA,Brazil,Life expectancy,Years,0 years,Total,2015,75.1
+BRA,Brazil,Life expectancy,Years,0 years,Male,2015,71.8
+BRA,Brazil,Life expectancy,Years,0 years,Female,2023,79.0
+BRA,Brazil,Life expectancy,Years,0 years,Female,2022,78.1
+BRA,Brazil,Life expectancy,Years,0 years,Female,2021,76.4
+BRA,Brazil,Life expectancy,Years,0 years,Female,2020,77.6
+BRA,Brazil,Life expectancy,Years,0 years,Female,2019,79.0
+BRA,Brazil,Life expectancy,Years,0 years,Female,2018,79.0
+BRA,Brazil,Life expectancy,Years,0 years,Female,2017,78.8
+BRA,Brazil,Life expectancy,Years,0 years,Female,2016,78.5
+BRA,Brazil,Life expectancy,Years,0 years,Female,2015,78.5
+BRA,Brazil,Life expectancy,Years,0 years,Total,2023,75.8
+BRA,Brazil,Life expectancy,Years,0 years,Total,2022,74.9
+BRA,Brazil,Life expectancy,Years,0 years,Total,2021,73.0
+BRA,Brazil,Life expectancy,Years,0 years,Total,2020,74.5
+BRA,Brazil,Life expectancy,Years,0 years,Male,2023,72.8
+BRA,Brazil,Life expectancy,Years,0 years,Male,2022,71.7
+BRA,Brazil,Life expectancy,Years,0 years,Male,2021,69.8
+BRA,Brazil,Life expectancy,Years,0 years,Male,2020,71.5
+BGR,Bulgaria,Life expectancy,Years,0 years,Male,2018,71.5
+BGR,Bulgaria,Life expectancy,Years,0 years,Male,2017,71.4
+BGR,Bulgaria,Life expectancy,Years,0 years,Male,2016,71.3
+BGR,Bulgaria,Life expectancy,Years,0 years,Total,2019,75.1
+BGR,Bulgaria,Life expectancy,Years,0 years,Total,2018,75.0
+BGR,Bulgaria,Life expectancy,Years,0 years,Total,2017,74.8
+BGR,Bulgaria,Life expectancy,Years,0 years,Total,2016,74.9
+BGR,Bulgaria,Life expectancy,Years,0 years,Total,2015,74.7
+BGR,Bulgaria,Life expectancy,Years,0 years,Male,2015,71.2
+BGR,Bulgaria,Life expectancy,Years,0 years,Female,2023,79.7
+BGR,Bulgaria,Life expectancy,Years,0 years,Female,2022,77.9
+BGR,Bulgaria,Life expectancy,Years,0 years,Female,2021,74.9
+BGR,Bulgaria,Life expectancy,Years,0 years,Female,2020,77.3
+BGR,Bulgaria,Life expectancy,Years,0 years,Female,2019,78.8
+BGR,Bulgaria,Life expectancy,Years,0 years,Female,2018,78.6
+BGR,Bulgaria,Life expectancy,Years,0 years,Female,2017,78.4
+BGR,Bulgaria,Life expectancy,Years,0 years,Female,2016,78.5
+BGR,Bulgaria,Life expectancy,Years,0 years,Female,2015,78.2
+BGR,Bulgaria,Life expectancy,Years,0 years,Total,2023,75.8
+BGR,Bulgaria,Life expectancy,Years,0 years,Total,2022,74.2
+BGR,Bulgaria,Life expectancy,Years,0 years,Total,2021,71.2
+BGR,Bulgaria,Life expectancy,Years,0 years,Total,2020,73.3
+BGR,Bulgaria,Life expectancy,Years,0 years,Male,2023,72.0
+BGR,Bulgaria,Life expectancy,Years,0 years,Male,2022,70.6
+BGR,Bulgaria,Life expectancy,Years,0 years,Male,2021,67.7
+BGR,Bulgaria,Life expectancy,Years,0 years,Male,2020,69.6
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Male,2018,75.0
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Male,2017,74.4
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Male,2016,74.6
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Total,2019,77.9
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Total,2018,77.7
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Total,2017,77.2
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Total,2016,77.2
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Total,2015,77.0
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Male,2015,74.4
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Female,2023,80.9
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Female,2022,81.1
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Female,2021,80.9
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Female,2020,81.0
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Female,2019,80.7
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Female,2018,80.6
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Female,2017,80.3
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Female,2016,80.1
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Female,2015,79.8
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Total,2023,78.0
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Total,2022,78.2
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Total,2021,78.1
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Total,2020,78.0
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Male,2023,75.2
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Male,2022,75.5
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Male,2021,75.5
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Male,2020,75.2
+HRV,Croatia,Life expectancy,Years,0 years,Male,2018,74.9
+HRV,Croatia,Life expectancy,Years,0 years,Male,2017,74.9
+HRV,Croatia,Life expectancy,Years,0 years,Male,2016,75.0
+HRV,Croatia,Life expectancy,Years,0 years,Total,2019,78.6
+HRV,Croatia,Life expectancy,Years,0 years,Total,2018,78.2
+HRV,Croatia,Life expectancy,Years,0 years,Total,2017,78.0
+HRV,Croatia,Life expectancy,Years,0 years,Total,2016,78.2
+HRV,Croatia,Life expectancy,Years,0 years,Total,2015,77.5
+HRV,Croatia,Life expectancy,Years,0 years,Male,2015,74.4
+HRV,Croatia,Life expectancy,Years,0 years,Female,2023,81.8
+HRV,Croatia,Life expectancy,Years,0 years,Female,2022,80.8
+HRV,Croatia,Life expectancy,Years,0 years,Female,2021,79.7
+HRV,Croatia,Life expectancy,Years,0 years,Female,2020,80.7
+HRV,Croatia,Life expectancy,Years,0 years,Female,2019,81.6
+HRV,Croatia,Life expectancy,Years,0 years,Female,2018,81.5
+HRV,Croatia,Life expectancy,Years,0 years,Female,2017,81.0
+HRV,Croatia,Life expectancy,Years,0 years,Female,2016,81.3
+HRV,Croatia,Life expectancy,Years,0 years,Female,2015,80.5
+HRV,Croatia,Life expectancy,Years,0 years,Total,2023,78.6
+HRV,Croatia,Life expectancy,Years,0 years,Total,2022,77.7
+HRV,Croatia,Life expectancy,Years,0 years,Total,2021,76.6
+HRV,Croatia,Life expectancy,Years,0 years,Total,2020,77.6
+HRV,Croatia,Life expectancy,Years,0 years,Male,2023,75.5
+HRV,Croatia,Life expectancy,Years,0 years,Male,2022,74.6
+HRV,Croatia,Life expectancy,Years,0 years,Male,2021,73.5
+HRV,Croatia,Life expectancy,Years,0 years,Male,2020,74.5
+IND,India,Life expectancy,Years,0 years,Male,2018,69.0
+IND,India,Life expectancy,Years,0 years,Male,2017,68.6
+IND,India,Life expectancy,Years,0 years,Male,2016,68.2
+IND,India,Life expectancy,Years,0 years,Total,2019,70.7
+IND,India,Life expectancy,Years,0 years,Total,2018,70.4
+IND,India,Life expectancy,Years,0 years,Total,2017,70.1
+IND,India,Life expectancy,Years,0 years,Total,2016,69.7
+IND,India,Life expectancy,Years,0 years,Total,2015,69.3
+IND,India,Life expectancy,Years,0 years,Male,2015,67.8
+IND,India,Life expectancy,Years,0 years,Female,2023,73.6
+IND,India,Life expectancy,Years,0 years,Female,2022,73.3
+IND,India,Life expectancy,Years,0 years,Female,2021,68.8
+IND,India,Life expectancy,Years,0 years,Female,2020,71.9
+IND,India,Life expectancy,Years,0 years,Female,2019,72.3
+IND,India,Life expectancy,Years,0 years,Female,2018,72.0
+IND,India,Life expectancy,Years,0 years,Female,2017,71.6
+IND,India,Life expectancy,Years,0 years,Female,2016,71.3
+IND,India,Life expectancy,Years,0 years,Female,2015,70.9
+IND,India,Life expectancy,Years,0 years,Total,2023,72.0
+IND,India,Life expectancy,Years,0 years,Total,2022,71.7
+IND,India,Life expectancy,Years,0 years,Total,2021,67.3
+IND,India,Life expectancy,Years,0 years,Total,2020,70.2
+IND,India,Life expectancy,Years,0 years,Male,2023,70.5
+IND,India,Life expectancy,Years,0 years,Male,2022,70.2
+IND,India,Life expectancy,Years,0 years,Male,2021,65.9
+IND,India,Life expectancy,Years,0 years,Male,2020,68.5
+IDN,Indonesia,Life expectancy,Years,0 years,Male,2018,68.1
+IDN,Indonesia,Life expectancy,Years,0 years,Male,2017,68.0
+IDN,Indonesia,Life expectancy,Years,0 years,Male,2016,67.8
+IDN,Indonesia,Life expectancy,Years,0 years,Total,2019,70.3
+IDN,Indonesia,Life expectancy,Years,0 years,Total,2018,70.1
+IDN,Indonesia,Life expectancy,Years,0 years,Total,2017,70.0
+IDN,Indonesia,Life expectancy,Years,0 years,Total,2016,69.7
+IDN,Indonesia,Life expectancy,Years,0 years,Total,2015,69.5
+IDN,Indonesia,Life expectancy,Years,0 years,Male,2015,67.6
+IDN,Indonesia,Life expectancy,Years,0 years,Female,2023,73.3
+IDN,Indonesia,Life expectancy,Years,0 years,Female,2022,73.0
+IDN,Indonesia,Life expectancy,Years,0 years,Female,2021,69.4
+IDN,Indonesia,Life expectancy,Years,0 years,Female,2020,71.1
+IDN,Indonesia,Life expectancy,Years,0 years,Female,2019,72.4
+IDN,Indonesia,Life expectancy,Years,0 years,Female,2018,72.1
+IDN,Indonesia,Life expectancy,Years,0 years,Female,2017,71.9
+IDN,Indonesia,Life expectancy,Years,0 years,Female,2016,71.7
+IDN,Indonesia,Life expectancy,Years,0 years,Female,2015,71.5
+IDN,Indonesia,Life expectancy,Years,0 years,Total,2023,71.1
+IDN,Indonesia,Life expectancy,Years,0 years,Total,2022,70.9
+IDN,Indonesia,Life expectancy,Years,0 years,Total,2021,67.5
+IDN,Indonesia,Life expectancy,Years,0 years,Total,2020,68.8
+IDN,Indonesia,Life expectancy,Years,0 years,Male,2023,69.0
+IDN,Indonesia,Life expectancy,Years,0 years,Male,2022,68.9
+IDN,Indonesia,Life expectancy,Years,0 years,Male,2021,65.5
+IDN,Indonesia,Life expectancy,Years,0 years,Male,2020,66.6
+PER,Peru,Life expectancy,Years,0 years,Male,2016,73.4
+PER,Peru,Life expectancy,Years,0 years,Male,2015,73.2
+PER,Peru,Life expectancy,Years,0 years,Female,2024,80.0
+PER,Peru,Life expectancy,Years,0 years,Total,2019,76.7
+PER,Peru,Life expectancy,Years,0 years,Total,2018,76.6
+PER,Peru,Life expectancy,Years,0 years,Total,2017,76.4
+PER,Peru,Life expectancy,Years,0 years,Total,2016,76.1
+PER,Peru,Life expectancy,Years,0 years,Total,2015,75.9
+PER,Peru,Life expectancy,Years,0 years,Female,2023,79.8
+PER,Peru,Life expectancy,Years,0 years,Female,2022,79.7
+PER,Peru,Life expectancy,Years,0 years,Female,2021,79.6
+PER,Peru,Life expectancy,Years,0 years,Female,2020,79.5
+PER,Peru,Life expectancy,Years,0 years,Female,2019,79.4
+PER,Peru,Life expectancy,Years,0 years,Female,2018,79.3
+PER,Peru,Life expectancy,Years,0 years,Female,2017,79.1
+PER,Peru,Life expectancy,Years,0 years,Female,2016,78.8
+PER,Peru,Life expectancy,Years,0 years,Female,2015,78.5
+PER,Peru,Life expectancy,Years,0 years,Total,2024,77.4
+PER,Peru,Life expectancy,Years,0 years,Total,2023,77.2
+PER,Peru,Life expectancy,Years,0 years,Total,2022,77.1
+PER,Peru,Life expectancy,Years,0 years,Total,2021,77.0
+PER,Peru,Life expectancy,Years,0 years,Total,2020,76.9
+PER,Peru,Life expectancy,Years,0 years,Male,2024,74.7
+PER,Peru,Life expectancy,Years,0 years,Male,2023,74.6
+PER,Peru,Life expectancy,Years,0 years,Male,2022,74.4
+PER,Peru,Life expectancy,Years,0 years,Male,2021,74.3
+PER,Peru,Life expectancy,Years,0 years,Male,2020,74.1
+PER,Peru,Life expectancy,Years,0 years,Male,2019,74.0
+PER,Peru,Life expectancy,Years,0 years,Male,2018,73.8
+ROU,Romania,Life expectancy,Years,0 years,Male,2018,71.7
+ROU,Romania,Life expectancy,Years,0 years,Male,2017,71.6
+ROU,Romania,Life expectancy,Years,0 years,Male,2016,71.6
+ROU,Romania,Life expectancy,Years,0 years,Total,2019,75.6
+ROU,Romania,Life expectancy,Years,0 years,Total,2018,75.3
+ROU,Romania,Life expectancy,Years,0 years,Total,2017,75.2
+ROU,Romania,Life expectancy,Years,0 years,Total,2016,75.2
+ROU,Romania,Life expectancy,Years,0 years,Total,2015,74.9
+ROU,Romania,Life expectancy,Years,0 years,Male,2015,71.4
+ROU,Romania,Life expectancy,Years,0 years,Female,2023,80.4
+ROU,Romania,Life expectancy,Years,0 years,Female,2022,79.2
+ROU,Romania,Life expectancy,Years,0 years,Female,2021,76.6
+ROU,Romania,Life expectancy,Years,0 years,Female,2020,78.3
+ROU,Romania,Life expectancy,Years,0 years,Female,2019,79.5
+ROU,Romania,Life expectancy,Years,0 years,Female,2018,79.2
+ROU,Romania,Life expectancy,Years,0 years,Female,2017,79.0
+ROU,Romania,Life expectancy,Years,0 years,Female,2016,79.0
+ROU,Romania,Life expectancy,Years,0 years,Female,2015,78.6
+ROU,Romania,Life expectancy,Years,0 years,Total,2023,76.4
+ROU,Romania,Life expectancy,Years,0 years,Total,2022,75.1
+ROU,Romania,Life expectancy,Years,0 years,Total,2021,72.8
+ROU,Romania,Life expectancy,Years,0 years,Total,2020,74.2
+ROU,Romania,Life expectancy,Years,0 years,Male,2023,72.6
+ROU,Romania,Life expectancy,Years,0 years,Male,2022,71.3
+ROU,Romania,Life expectancy,Years,0 years,Male,2021,69.2
+ROU,Romania,Life expectancy,Years,0 years,Male,2020,70.4
+RUS,Russia,Life expectancy,Years,0 years,Male,2018,67.8
+RUS,Russia,Life expectancy,Years,0 years,Male,2017,67.5
+RUS,Russia,Life expectancy,Years,0 years,Male,2016,66.5
+RUS,Russia,Life expectancy,Years,0 years,Total,2019,73.1
+RUS,Russia,Life expectancy,Years,0 years,Total,2018,72.7
+RUS,Russia,Life expectancy,Years,0 years,Total,2017,72.5
+RUS,Russia,Life expectancy,Years,0 years,Total,2016,71.7
+RUS,Russia,Life expectancy,Years,0 years,Total,2015,71.2
+RUS,Russia,Life expectancy,Years,0 years,Male,2015,65.9
+RUS,Russia,Life expectancy,Years,0 years,Female,2023,78.7
+RUS,Russia,Life expectancy,Years,0 years,Female,2022,77.8
+RUS,Russia,Life expectancy,Years,0 years,Female,2021,74.5
+RUS,Russia,Life expectancy,Years,0 years,Female,2020,76.4
+RUS,Russia,Life expectancy,Years,0 years,Female,2019,78.2
+RUS,Russia,Life expectancy,Years,0 years,Female,2018,77.8
+RUS,Russia,Life expectancy,Years,0 years,Female,2017,77.6
+RUS,Russia,Life expectancy,Years,0 years,Female,2016,77.1
+RUS,Russia,Life expectancy,Years,0 years,Female,2015,76.7
+RUS,Russia,Life expectancy,Years,0 years,Total,2023,73.3
+RUS,Russia,Life expectancy,Years,0 years,Total,2022,72.5
+RUS,Russia,Life expectancy,Years,0 years,Total,2021,69.9
+RUS,Russia,Life expectancy,Years,0 years,Total,2020,71.3
+RUS,Russia,Life expectancy,Years,0 years,Male,2023,68.0
+RUS,Russia,Life expectancy,Years,0 years,Male,2022,67.6
+RUS,Russia,Life expectancy,Years,0 years,Male,2021,65.5
+RUS,Russia,Life expectancy,Years,0 years,Male,2020,66.5
+ZAF,South Africa,Life expectancy,Years,0 years,Male,2018,62.3
+ZAF,South Africa,Life expectancy,Years,0 years,Male,2017,62.0
+ZAF,South Africa,Life expectancy,Years,0 years,Male,2016,61.3
+ZAF,South Africa,Life expectancy,Years,0 years,Total,2019,66.1
+ZAF,South Africa,Life expectancy,Years,0 years,Total,2018,65.7
+ZAF,South Africa,Life expectancy,Years,0 years,Total,2017,65.4
+ZAF,South Africa,Life expectancy,Years,0 years,Total,2016,64.7
+ZAF,South Africa,Life expectancy,Years,0 years,Total,2015,64.1
+ZAF,South Africa,Life expectancy,Years,0 years,Male,2015,60.8
+ZAF,South Africa,Life expectancy,Years,0 years,Female,2023,69.6
+ZAF,South Africa,Life expectancy,Years,0 years,Female,2022,69.0
+ZAF,South Africa,Life expectancy,Years,0 years,Female,2021,64.8
+ZAF,South Africa,Life expectancy,Years,0 years,Female,2020,67.9
+ZAF,South Africa,Life expectancy,Years,0 years,Female,2019,69.2
+ZAF,South Africa,Life expectancy,Years,0 years,Female,2018,68.9
+ZAF,South Africa,Life expectancy,Years,0 years,Female,2017,68.6
+ZAF,South Africa,Life expectancy,Years,0 years,Female,2016,67.9
+ZAF,South Africa,Life expectancy,Years,0 years,Female,2015,67.0
+ZAF,South Africa,Life expectancy,Years,0 years,Total,2023,66.1
+ZAF,South Africa,Life expectancy,Years,0 years,Total,2022,65.5
+ZAF,South Africa,Life expectancy,Years,0 years,Total,2021,62.0
+ZAF,South Africa,Life expectancy,Years,0 years,Total,2020,65.2
+ZAF,South Africa,Life expectancy,Years,0 years,Male,2023,62.6
+ZAF,South Africa,Life expectancy,Years,0 years,Male,2022,61.8
+ZAF,South Africa,Life expectancy,Years,0 years,Male,2021,59.2
+ZAF,South Africa,Life expectancy,Years,0 years,Male,2020,62.2
+THA,Thailand,Life expectancy,Years,0 years,Male,2018,73.0
+THA,Thailand,Life expectancy,Years,0 years,Male,2017,72.8
+THA,Thailand,Life expectancy,Years,0 years,Male,2016,72.6
+THA,Thailand,Life expectancy,Years,0 years,Total,2019,77.2
+THA,Thailand,Life expectancy,Years,0 years,Total,2018,77.2
+THA,Thailand,Life expectancy,Years,0 years,Total,2017,77.0
+THA,Thailand,Life expectancy,Years,0 years,Total,2016,76.8
+THA,Thailand,Life expectancy,Years,0 years,Total,2015,76.6
+THA,Thailand,Life expectancy,Years,0 years,Male,2015,72.5
+THA,Thailand,Life expectancy,Years,0 years,Female,2023,80.9
+THA,Thailand,Life expectancy,Years,0 years,Female,2022,79.8
+THA,Thailand,Life expectancy,Years,0 years,Female,2021,82.1
+THA,Thailand,Life expectancy,Years,0 years,Female,2020,81.9
+THA,Thailand,Life expectancy,Years,0 years,Female,2019,81.8
+THA,Thailand,Life expectancy,Years,0 years,Female,2018,81.6
+THA,Thailand,Life expectancy,Years,0 years,Female,2017,81.4
+THA,Thailand,Life expectancy,Years,0 years,Female,2016,81.1
+THA,Thailand,Life expectancy,Years,0 years,Female,2015,80.9
+THA,Thailand,Life expectancy,Years,0 years,Total,2023,76.4
+THA,Thailand,Life expectancy,Years,0 years,Total,2022,75.3
+THA,Thailand,Life expectancy,Years,0 years,Total,2021,77.6
+THA,Thailand,Life expectancy,Years,0 years,Total,2020,77.3
+THA,Thailand,Life expectancy,Years,0 years,Male,2023,72.2
+THA,Thailand,Life expectancy,Years,0 years,Male,2022,71.0
+THA,Thailand,Life expectancy,Years,0 years,Male,2021,73.3
+THA,Thailand,Life expectancy,Years,0 years,Male,2020,73.0
+UKR,Ukraine,Life expectancy,Years,0 years,Male,2018,68.6
+UKR,Ukraine,Life expectancy,Years,0 years,Male,2017,69.1
+UKR,Ukraine,Life expectancy,Years,0 years,Male,2016,68.5
+UKR,Ukraine,Life expectancy,Years,0 years,Total,2019,73.9
+UKR,Ukraine,Life expectancy,Years,0 years,Total,2018,73.6
+UKR,Ukraine,Life expectancy,Years,0 years,Total,2017,74.0
+UKR,Ukraine,Life expectancy,Years,0 years,Total,2016,73.4
+UKR,Ukraine,Life expectancy,Years,0 years,Total,2015,72.7
+UKR,Ukraine,Life expectancy,Years,0 years,Male,2015,67.7
+UKR,Ukraine,Life expectancy,Years,0 years,Female,2023,80.2
+UKR,Ukraine,Life expectancy,Years,0 years,Female,2022,79.4
+UKR,Ukraine,Life expectancy,Years,0 years,Female,2021,76.0
+UKR,Ukraine,Life expectancy,Years,0 years,Female,2020,78.0
+UKR,Ukraine,Life expectancy,Years,0 years,Female,2019,78.7
+UKR,Ukraine,Life expectancy,Years,0 years,Female,2018,78.3
+UKR,Ukraine,Life expectancy,Years,0 years,Female,2017,78.6
+UKR,Ukraine,Life expectancy,Years,0 years,Female,2016,78.0
+UKR,Ukraine,Life expectancy,Years,0 years,Female,2015,77.5
+UKR,Ukraine,Life expectancy,Years,0 years,Total,2023,73.4
+UKR,Ukraine,Life expectancy,Years,0 years,Total,2022,72.7
+UKR,Ukraine,Life expectancy,Years,0 years,Total,2021,71.6
+UKR,Ukraine,Life expectancy,Years,0 years,Total,2020,73.3
+UKR,Ukraine,Life expectancy,Years,0 years,Male,2023,66.9
+UKR,Ukraine,Life expectancy,Years,0 years,Male,2022,66.2
+UKR,Ukraine,Life expectancy,Years,0 years,Male,2021,67.1
+UKR,Ukraine,Life expectancy,Years,0 years,Male,2020,68.3
+AUS,Australia,Life expectancy,Years,0 years,Total,2019,82.9
+AUT,Austria,Life expectancy,Years,0 years,Total,2019,82.0
+BEL,Belgium,Life expectancy,Years,0 years,Total,2019,82.1
+CAN,Canada,Life expectancy,Years,0 years,Total,2019,82.2
+CHL,Chile,Life expectancy,Years,0 years,Total,2017,80.2
+COL,Colombia,Life expectancy,Years,0 years,Total,2017,75.9
+CRI,Costa Rica,Life expectancy,Years,0 years,Total,2019,80.5
+CZE,Czechia,Life expectancy,Years,0 years,Total,2019,79.3
+DNK,Denmark,Life expectancy,Years,0 years,Total,2019,81.5
+EST,Estonia,Life expectancy,Years,0 years,Total,2019,79.0
+FIN,Finland,Life expectancy,Years,0 years,Total,2019,82.1
+FRA,France,Life expectancy,Years,0 years,Total,2019,83.0
+DEU,Germany,Life expectancy,Years,0 years,Total,2019,81.3
+GRC,Greece,Life expectancy,Years,0 years,Total,2019,81.7
+HUN,Hungary,Life expectancy,Years,0 years,Total,2019,76.5
+ISL,Iceland,Life expectancy,Years,0 years,Total,2019,83.2
+IRL,Ireland,Life expectancy,Years,0 years,Total,2019,82.8
+ISR,Israel,Life expectancy,Years,0 years,Total,2021,82.6
+ITA,Italy,Life expectancy,Years,0 years,Total,2019,83.6
+JPN,Japan,Life expectancy,Years,0 years,Total,2019,84.4
+KOR,Korea,Life expectancy,Years,0 years,Total,2019,83.3
+LVA,Latvia,Life expectancy,Years,0 years,Total,2019,75.7
+LTU,Lithuania,Life expectancy,Years,0 years,Total,2019,76.5
+LUX,Luxembourg,Life expectancy,Years,0 years,Total,2019,82.7
+MEX,Mexico,Life expectancy,Years,0 years,Total,2017,74.8
+NLD,Netherlands,Life expectancy,Years,0 years,Total,2019,82.2
+NZL,New Zealand,Life expectancy,Years,0 years,Total,2022,82.0
+NOR,Norway,Life expectancy,Years,0 years,Total,2019,83.0
+POL,Poland,Life expectancy,Years,0 years,Total,2019,78.0
+PRT,Portugal,Life expectancy,Years,0 years,Total,2019,81.9
+SVK,Slovak Republic,Life expectancy,Years,0 years,Total,2019,77.8
+SVN,Slovenia,Life expectancy,Years,0 years,Total,2019,81.6
+ESP,Spain,Life expectancy,Years,0 years,Female,2022,85.9
+SWE,Sweden,Life expectancy,Years,0 years,Male,2019,81.5
+CHE,Switzerland,Life expectancy,Years,0 years,Female,2019,85.8
+TUR,Türkiye,Life expectancy,Years,0 years,Total,2022,77.3
+GBR,United Kingdom,Life expectancy,Years,0 years,Total,2019,81.4
+USA,United States,Life expectancy,Years,0 years,Male,2019,76.3
+ARG,Argentina,Life expectancy,Years,0 years,Male,2019,74.2
+BRA,Brazil,Life expectancy,Years,0 years,Male,2019,72.7
+BGR,Bulgaria,Life expectancy,Years,0 years,Male,2019,71.6
+CHN,China (People’s Republic of),Life expectancy,Years,0 years,Male,2019,75.3
+HRV,Croatia,Life expectancy,Years,0 years,Male,2019,75.5
+IND,India,Life expectancy,Years,0 years,Male,2019,69.3
+IDN,Indonesia,Life expectancy,Years,0 years,Male,2019,68.3
+PER,Peru,Life expectancy,Years,0 years,Male,2017,73.6
+ROU,Romania,Life expectancy,Years,0 years,Male,2019,71.9
+RUS,Russia,Life expectancy,Years,0 years,Male,2019,68.2
+ZAF,South Africa,Life expectancy,Years,0 years,Male,2019,62.7
+THA,Thailand,Life expectancy,Years,0 years,Male,2019,72.8
+UKR,Ukraine,Life expectancy,Years,0 years,Male,2019,68.9
